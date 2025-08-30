@@ -1,0 +1,3662 @@
+[
+  {
+    "student_id": 22405531,
+    "registration_number": 22405531,
+    "admission_number": 22405531,
+    "roll_number": 22405531,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "ARUN",
+      "middle_name": "KUMAR",
+      "last_name": "S",
+      "full_name": "ARUN KUMAR S",
+      "date_of_birth": "2005-03-15",
+      "gender": "Male",
+      "blood_group": "B+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "arun.kumar@gmail.com",
+      "phone_number": "+91 9876543210",
+      "alternate_phone": "+91 8765432109",
+      "address": {
+        "line": "45, Anna Street, T. Nagar",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600017",
+        "country": "India"
+      },
+      "guardian_name": "Selvam S",
+      "guardian_contact": "+91 9876543201"
+    },
+    "academic_info": {
+      "institution": "CENTRAL POLYTECHNIC COLLEGE",
+      "institution_code": 101,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1061,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001001.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001001.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001001.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001001.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001001.pdf"
+    },
+    "login_credentials": {
+      "username": "arun.kumar.25cs001",
+      "password_plain": "Arun@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T10:00:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:30:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 22405547,
+    "registration_number": 22405547,
+    "admission_number": 22405547,
+    "roll_number": 22405547,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "PRIYA",
+      "middle_name": "",
+      "last_name": "R",
+      "full_name": "PRIYA R",
+      "date_of_birth": "2005-07-22",
+      "gender": "Female",
+      "blood_group": "A+",
+      "nationality": "Indian",
+      "category": "BC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "priya.r@gmail.com",
+      "phone_number": "+91 9876543211",
+      "alternate_phone": "+91 8765432110",
+      "address": {
+        "line": "12/3, Bharathi Street, Mylapore",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600004",
+        "country": "India"
+      },
+      "guardian_name": "Rajesh R",
+      "guardian_contact": "+91 9876543202"
+    },
+    "academic_info": {
+      "institution": "CENTRAL POLYTECHNIC COLLEGE",
+      "institution_code": 101,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1060,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001002.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001002.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001002.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001002.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001002.pdf"
+    },
+    "login_credentials": {
+      "username": "priya.r.25cs002",
+      "password_plain": "Priya@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T10:15:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:31:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 23101223,
+    "registration_number": 23101223,
+    "admission_number": 23101223,
+    "roll_number": 23101223,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "KARTHIK",
+      "middle_name": "RAJA",
+      "last_name": "M",
+      "full_name": "KARTHIK RAJA M",
+      "date_of_birth": "2005-01-10",
+      "gender": "Male",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "karthik.raja@gmail.com",
+      "phone_number": "+91 9876543212",
+      "alternate_phone": "+91 8765432111",
+      "address": {
+        "line": "78, Gandhi Road, Adyar",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600020",
+        "country": "India"
+      },
+      "guardian_name": "Murugan M",
+      "guardian_contact": "+91 9876543203"
+    },
+    "academic_info": {
+      "institution": "CENTRAL POLYTECHNIC COLLEGE",
+      "institution_code": 101,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001003.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001003.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001003.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001003.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001003.pdf"
+    },
+    "login_credentials": {
+      "username": "karthik.raja.25ce001",
+      "password_plain": "Karthik@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T10:30:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:32:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 23202735,
+    "registration_number": 23202735,
+    "admission_number": 23202735,
+    "roll_number": 23202735,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "DIVYA",
+      "middle_name": "SRI",
+      "last_name": "K",
+      "full_name": "DIVYA SRI K",
+      "date_of_birth": "2005-05-08",
+      "gender": "Female",
+      "blood_group": "AB+",
+      "nationality": "Indian",
+      "category": "BC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "divya.sri@gmail.com",
+      "phone_number": "+91 9876543213",
+      "alternate_phone": "+91 8765432112",
+      "address": {
+        "line": "23, Kamaraj Street, Velachery",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600042",
+        "country": "India"
+      },
+      "guardian_name": "Krishnan K",
+      "guardian_contact": "+91 9876543204"
+    },
+    "academic_info": {
+      "institution": "CENTRAL POLYTECHNIC COLLEGE",
+      "institution_code": 101,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001004.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001004.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001004.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001004.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001004.pdf"
+    },
+    "login_credentials": {
+      "username": "divya.sri.25ee001",
+      "password_plain": "Divya@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T10:45:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:33:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 23223539,
+    "registration_number": 23223539,
+    "admission_number": 23223539,
+    "roll_number": 23223539,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "RAJESH",
+      "middle_name": "",
+      "last_name": "P",
+      "full_name": "RAJESH P",
+      "date_of_birth": "2004-12-03",
+      "gender": "Male",
+      "blood_group": "B-",
+      "nationality": "Indian",
+      "category": "SC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "rajesh.p@gmail.com",
+      "phone_number": "+91 9876543214",
+      "alternate_phone": "+91 8765432113",
+      "address": {
+        "line": "56, Periyar Street, Tambaram",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600045",
+        "country": "India"
+      },
+      "guardian_name": "Palanisamy P",
+      "guardian_contact": "+91 9876543205"
+    },
+    "academic_info": {
+      "institution": "CENTRAL POLYTECHNIC COLLEGE",
+      "institution_code": 101,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001005.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001005.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001005.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001005.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001005.pdf"
+    },
+    "login_credentials": {
+      "username": "rajesh.p.25me001",
+      "password_plain": "Rajesh@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T11:00:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:34:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 23302296,
+    "registration_number": 23302296,
+    "admission_number": 23302296,
+    "roll_number": 23302296,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "SANGEETHA",
+      "middle_name": "",
+      "last_name": "V",
+      "full_name": "SANGEETHA V",
+      "date_of_birth": "2005-09-18",
+      "gender": "Female",
+      "blood_group": "A-",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "sangeetha.v@gmail.com",
+      "phone_number": "+91 9876543215",
+      "alternate_phone": "+91 8765432114",
+      "address": {
+        "line": "34, Nehru Street, Kodambakkam",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600024",
+        "country": "India"
+      },
+      "guardian_name": "Venkatesh V",
+      "guardian_contact": "+91 9876543206"
+    },
+    "academic_info": {
+      "institution": "CENTRAL POLYTECHNIC COLLEGE",
+      "institution_code": 101,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001006.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001006.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001006.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001006.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001006.pdf"
+    },
+    "login_credentials": {
+      "username": "sangeetha.v.25cs003",
+      "password_plain": "Sangeetha@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T11:15:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:35:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24101023,
+    "registration_number": 24101023,
+    "admission_number": 24101023,
+    "roll_number": 24101023,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "MOHAMED",
+      "middle_name": "ISMAIL",
+      "last_name": "A",
+      "full_name": "MOHAMED ISMAIL A",
+      "date_of_birth": "2005-04-12",
+      "gender": "Male",
+      "blood_group": "O-",
+      "nationality": "Indian",
+      "category": "BC-M",
+      "religion": "Islam"
+    },
+    "contact_info": {
+      "email": "mohamed.ismail@gmail.com",
+      "phone_number": "+91 9876543216",
+      "alternate_phone": "+91 8765432115",
+      "address": {
+        "line": "67, MGR Street, Triplicane",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600005",
+        "country": "India"
+      },
+      "guardian_name": "Abdul Rahman A",
+      "guardian_contact": "+91 9876543207"
+    },
+    "academic_info": {
+      "institution": "CENTRAL POLYTECHNIC COLLEGE",
+      "institution_code": 101,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001007.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001007.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001007.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001007.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001007.pdf"
+    },
+    "login_credentials": {
+      "username": "mohamed.ismail.25ec001",
+      "password_plain": "Mohamed@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T11:30:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:36:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24101024,
+    "registration_number": 24101024,
+    "admission_number": 24101024,
+    "roll_number": 24101024,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "LAKSHMI",
+      "middle_name": "PRIYA",
+      "last_name": "T",
+      "full_name": "LAKSHMI PRIYA T",
+      "date_of_birth": "2005-11-25",
+      "gender": "Female",
+      "blood_group": "B+",
+      "nationality": "Indian",
+      "category": "MBC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "lakshmi.priya@gmail.com",
+      "phone_number": "+91 9876543217",
+      "alternate_phone": "+91 8765432116",
+      "address": {
+        "line": "89, Rajaji Street, Porur",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600116",
+        "country": "India"
+      },
+      "guardian_name": "Thyagarajan T",
+      "guardian_contact": "+91 9876543208"
+    },
+    "academic_info": {
+      "institution": "CENTRAL POLYTECHNIC COLLEGE",
+      "institution_code": 101,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001008.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001008.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001008.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001008.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001008.pdf"
+    },
+    "login_credentials": {
+      "username": "lakshmi.priya.25cs004",
+      "password_plain": "Lakshmi@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T11:45:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:37:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24101027,
+    "registration_number": 24101027,
+    "admission_number": 24101027,
+    "roll_number": 24101027,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "VASANTH",
+      "middle_name": "KUMAR",
+      "last_name": "N",
+      "full_name": "VASANTH KUMAR N",
+      "date_of_birth": "2004-08-30",
+      "gender": "Male",
+      "blood_group": "A+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "vasanth.kumar@gmail.com",
+      "phone_number": "+91 9876543218",
+      "alternate_phone": "+91 8765432117",
+      "address": {
+        "line": "101, Bharathiyar Street, Madipakkam",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600091",
+        "country": "India"
+      },
+      "guardian_name": "Narayanan N",
+      "guardian_contact": "+91 9876543209"
+    },
+    "academic_info": {
+      "institution": "CENTRAL POLYTECHNIC COLLEGE",
+      "institution_code": 101,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001009.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001009.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001009.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001009.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001009.pdf"
+    },
+    "login_credentials": {
+      "username": "vasanth.kumar.25it001",
+      "password_plain": "Vasanth@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T12:00:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:38:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24101028,
+    "registration_number": 24101028,
+    "admission_number": 24101028,
+    "roll_number": 24101028,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "REVATHI",
+      "middle_name": "",
+      "last_name": "S",
+      "full_name": "REVATHI S",
+      "date_of_birth": "2005-06-14",
+      "gender": "Female",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "category": "ST",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "revathi.s@gmail.com",
+      "phone_number": "+91 9876543219",
+      "alternate_phone": "+91 8765432118",
+      "address": {
+        "line": "76, Vallalar Street, Chromepet",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600044",
+        "country": "India"
+      },
+      "guardian_name": "Sundaram S",
+      "guardian_contact": "+91 9876543210"
+    },
+    "academic_info": {
+      "institution": "CENTRAL POLYTECHNIC COLLEGE",
+      "institution_code": 101,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001010.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001010.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001010.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001010.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001010.pdf"
+    },
+    "login_credentials": {
+      "username": "revathi.s.25ce002",
+      "password_plain": "Revathi@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T12:15:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:39:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24101030,
+    "registration_number": 24101030,
+    "admission_number": 24101030,
+    "roll_number": 24101030,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "SURESH",
+      "middle_name": "BABU",
+      "last_name": "K",
+      "full_name": "SURESH BABU K",
+      "date_of_birth": "2004-10-05",
+      "gender": "Male",
+      "blood_group": "AB-",
+      "nationality": "Indian",
+      "category": "BC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "suresh.babu@gmail.com",
+      "phone_number": "+91 9876543220",
+      "alternate_phone": "+91 8765432119",
+      "address": {
+        "line": "52, Ambedkar Street, Pallavaram",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600043",
+        "country": "India"
+      },
+      "guardian_name": "Krishnamurthy K",
+      "guardian_contact": "+91 9876543211"
+    },
+    "academic_info": {
+      "institution": "CENTRAL POLYTECHNIC COLLEGE",
+      "institution_code": 101,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001011.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001011.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001011.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001011.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001011.pdf"
+    },
+    "login_credentials": {
+      "username": "suresh.babu.25ee002",
+      "password_plain": "Suresh@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T12:30:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:40:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24101032,
+    "registration_number": 24101032,
+    "admission_number": 24101032,
+    "roll_number": 24101032,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "KAVITHA",
+      "middle_name": "DEVI",
+      "last_name": "R",
+      "full_name": "KAVITHA DEVI R",
+      "date_of_birth": "2005-02-28",
+      "gender": "Female",
+      "blood_group": "B+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "kavitha.devi@gmail.com",
+      "phone_number": "+91 9876543221",
+      "alternate_phone": "+91 8765432120",
+      "address": {
+        "line": "18, Patel Street, Sholinganallur",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600119",
+        "country": "India"
+      },
+      "guardian_name": "Raman R",
+      "guardian_contact": "+91 9876543212"
+    },
+    "academic_info": {
+      "institution": "CENTRAL POLYTECHNIC COLLEGE",
+      "institution_code": 101,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001012.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001012.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001012.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001012.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001012.pdf"
+    },
+    "login_credentials": {
+      "username": "kavitha.devi.25cs005",
+      "password_plain": "Kavitha@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T12:45:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:41:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24101033,
+    "registration_number": 24101033,
+    "admission_number": 24101033,
+    "roll_number": 24101033,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "DINESH",
+      "middle_name": "",
+      "last_name": "G",
+      "full_name": "DINESH G",
+      "date_of_birth": "2004-12-20",
+      "gender": "Male",
+      "blood_group": "A-",
+      "nationality": "Indian",
+      "category": "BC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "dinesh.g@gmail.com",
+      "phone_number": "+91 9876543222",
+      "alternate_phone": "+91 8765432121",
+      "address": {
+        "line": "93, Tilak Street, Nanganallur",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600061",
+        "country": "India"
+      },
+      "guardian_name": "Gopal G",
+      "guardian_contact": "+91 9876543213"
+    },
+    "academic_info": {
+      "institution": "CENTRAL POLYTECHNIC COLLEGE",
+      "institution_code": 101,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001013.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001013.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001013.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001013.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001013.pdf"
+    },
+    "login_credentials": {
+      "username": "dinesh.g.25me002",
+      "password_plain": "Dinesh@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T13:00:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:42:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24602108,
+    "registration_number": 24602108,
+    "admission_number": 24602108,
+    "roll_number": 24602108,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "MEERA",
+      "middle_name": "DEVI",
+      "last_name": "L",
+      "full_name": "MEERA DEVI L",
+      "date_of_birth": "2005-04-17",
+      "gender": "Female",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "category": "MBC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "meera.devi@gmail.com",
+      "phone_number": "+91 9876543223",
+      "alternate_phone": "+91 8765432122",
+      "address": {
+        "line": "37, VOC Street, Saidapet",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600015",
+        "country": "India"
+      },
+      "guardian_name": "Lakshmanan L",
+      "guardian_contact": "+91 9876543214"
+    },
+    "academic_info": {
+      "institution": "CENTRAL POLYTECHNIC COLLEGE",
+      "institution_code": 101,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001014.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001014.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001014.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001014.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001014.pdf"
+    },
+    "login_credentials": {
+      "username": "meera.devi.25ec002",
+      "password_plain": "Meera@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T13:15:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:43:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24602109,
+    "registration_number": 24602109,
+    "admission_number": 24602109,
+    "roll_number": 24602109,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "GANESH",
+      "middle_name": "KUMAR",
+      "last_name": "B",
+      "full_name": "GANESH KUMAR B",
+      "date_of_birth": "2005-01-01",
+      "gender": "Male",
+      "blood_group": "AB+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "ganesh.kumar@gmail.com",
+      "phone_number": "+91 9876543224",
+      "alternate_phone": "+91 8765432123",
+      "address": {
+        "line": "64, Subhash Street, Guindy",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600032",
+        "country": "India"
+      },
+      "guardian_name": "Balakrishnan B",
+      "guardian_contact": "+91 9876543215"
+    },
+    "academic_info": {
+      "institution": "CENTRAL POLYTECHNIC COLLEGE",
+      "institution_code": 101,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001015.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001015.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001015.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001015.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001015.pdf"
+    },
+    "login_credentials": {
+      "username": "ganesh.kumar.25it002",
+      "password_plain": "Ganesh@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T13:30:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:44:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 22405531,
+    "registration_number": 22405531,
+    "admission_number": 22405531,
+    "roll_number": 22405531,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "O K",
+      "middle_name": "",
+      "last_name": "",
+      "full_name": "BALAMURUGAN",
+      "date_of_birth": "2005-03-15",
+      "gender": "Male",
+      "blood_group": "B+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "blmurugank16@gmail.com",
+      "phone_number": "+91 9876543210",
+      "alternate_phone": "+91 8765432109",
+      "address": {
+        "line": "45, Anna Street, T. Nagar",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600017",
+        "country": "India"
+      },
+      "guardian_name": "Selvam S",
+      "guardian_contact": "+91 9876543201"
+    },
+    "academic_info": {
+      "institution": "SAKTHI POLYTECHNIC COLLEGE",
+      "institution_code": 215,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1061,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001001.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001001.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001001.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001001.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001001.pdf"
+    },
+    "login_credentials": {
+      "username": "arun.kumar.25cs001",
+      "password_plain": "Arun@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T10:00:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:30:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 22405547,
+    "registration_number": 22405547,
+    "admission_number": 22405547,
+    "roll_number": 22405547,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "C",
+      "middle_name": "",
+      "last_name": "",
+      "full_name": "GANESAN",
+      "date_of_birth": "2005-07-22",
+      "gender": "Female",
+      "blood_group": "A+",
+      "nationality": "Indian",
+      "category": "BC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "ganesanmepgdmm@gmail.com",
+      "phone_number": "+91 9876543211",
+      "alternate_phone": "+91 8765432110",
+      "address": {
+        "line": "12/3, Bharathi Street, Mylapore",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600004",
+        "country": "India"
+      },
+      "guardian_name": "Rajesh R",
+      "guardian_contact": "+91 9876543202"
+    },
+    "academic_info": {
+      "institution": "SAKTHI POLYTECHNIC COLLEGE",
+      "institution_code": 215,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1060,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001002.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001002.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001002.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001002.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001002.pdf"
+    },
+    "login_credentials": {
+      "username": "priya.r.25cs002",
+      "password_plain": "Priya@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T10:15:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:31:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 23101223,
+    "registration_number": 23101223,
+    "admission_number": 23101223,
+    "roll_number": 23101223,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "J",
+      "middle_name": "",
+      "last_name": "",
+      "full_name": "DINESH",
+      "date_of_birth": "2005-01-10",
+      "gender": "Male",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "dineshjayeit@gmail.com",
+      "phone_number": "+91 9876543212",
+      "alternate_phone": "+91 8765432111",
+      "address": {
+        "line": "78, Gandhi Road, Adyar",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600020",
+        "country": "India"
+      },
+      "guardian_name": "Murugan M",
+      "guardian_contact": "+91 9876543203"
+    },
+    "academic_info": {
+      "institution": "SAKTHI POLYTECHNIC COLLEGE",
+      "institution_code": 215,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001003.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001003.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001003.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001003.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001003.pdf"
+    },
+    "login_credentials": {
+      "username": "karthik.raja.25ce001",
+      "password_plain": "Karthik@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T10:30:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:32:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 23202735,
+    "registration_number": 23202735,
+    "admission_number": 23202735,
+    "roll_number": 23202735,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "L S",
+      "middle_name": "",
+      "last_name": "",
+      "full_name": "GOKUL",
+      "date_of_birth": "2005-05-08",
+      "gender": "Female",
+      "blood_group": "AB+",
+      "nationality": "Indian",
+      "category": "BC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "lsgokulmech@gmail.com",
+      "phone_number": "+91 9876543213",
+      "alternate_phone": "+91 8765432112",
+      "address": {
+        "line": "23, Kamaraj Street, Velachery",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600042",
+        "country": "India"
+      },
+      "guardian_name": "Krishnan K",
+      "guardian_contact": "+91 9876543204"
+    },
+    "academic_info": {
+      "institution": "SAKTHI POLYTECHNIC COLLEGE",
+      "institution_code": 215,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001004.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001004.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001004.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001004.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001004.pdf"
+    },
+    "login_credentials": {
+      "username": "divya.sri.25ee001",
+      "password_plain": "Divya@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T10:45:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:33:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 23223539,
+    "registration_number": 23223539,
+    "admission_number": 23223539,
+    "roll_number": 23223539,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "S",
+      "middle_name": "",
+      "last_name": "",
+      "full_name": "GOWTHAM",
+      "date_of_birth": "2004-12-03",
+      "gender": "Male",
+      "blood_group": "B-",
+      "nationality": "Indian",
+      "category": "SC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "gowthamcithpe@gmail.com",
+      "phone_number": "+91 9876543214",
+      "alternate_phone": "+91 8765432113",
+      "address": {
+        "line": "56, Periyar Street, Tambaram",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600045",
+        "country": "India"
+      },
+      "guardian_name": "Palanisamy P",
+      "guardian_contact": "+91 9876543205"
+    },
+    "academic_info": {
+      "institution": "SAKTHI POLYTECHNIC COLLEGE",
+      "institution_code": 215,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001005.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001005.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001005.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001005.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001005.pdf"
+    },
+    "login_credentials": {
+      "username": "rajesh.p.25me001",
+      "password_plain": "Rajesh@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T11:00:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:34:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 23302296,
+    "registration_number": 23302296,
+    "admission_number": 23302296,
+    "roll_number": 23302296,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "J",
+      "middle_name": "",
+      "last_name": "",
+      "full_name": "ADHARSH",
+      "date_of_birth": "2005-09-18",
+      "gender": "Female",
+      "blood_group": "A-",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "adharshjaisankar@gmail.com",
+      "phone_number": "+91 9876543215",
+      "alternate_phone": "+91 8765432114",
+      "address": {
+        "line": "34, Nehru Street, Kodambakkam",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600024",
+        "country": "India"
+      },
+      "guardian_name": "Venkatesh V",
+      "guardian_contact": "+91 9876543206"
+    },
+    "academic_info": {
+      "institution": "SAKTHI POLYTECHNIC COLLEGE",
+      "institution_code": 215,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001006.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001006.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001006.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001006.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001006.pdf"
+    },
+    "login_credentials": {
+      "username": "sangeetha.v.25cs003",
+      "password_plain": "Sangeetha@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T11:15:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:35:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24101023,
+    "registration_number": 24101023,
+    "admission_number": 24101023,
+    "roll_number": 24101023,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "J",
+      "middle_name": "",
+      "last_name": "",
+      "full_name": "KANIMOZHI",
+      "date_of_birth": "2005-04-12",
+      "gender": "Male",
+      "blood_group": "O-",
+      "nationality": "Indian",
+      "category": "BC-M",
+      "religion": "Islam"
+    },
+    "contact_info": {
+      "email": "kanimozhieit@gmail.com",
+      "phone_number": "+91 9876543216",
+      "alternate_phone": "+91 8765432115",
+      "address": {
+        "line": "67, MGR Street, Triplicane",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600005",
+        "country": "India"
+      },
+      "guardian_name": "Abdul Rahman A",
+      "guardian_contact": "+91 9876543207"
+    },
+    "academic_info": {
+      "institution": "SAKTHI POLYTECHNIC COLLEGE",
+      "institution_code": 215,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001007.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001007.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001007.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001007.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001007.pdf"
+    },
+    "login_credentials": {
+      "username": "mohamed.ismail.25ec001",
+      "password_plain": "Mohamed@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T11:30:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:36:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24101024,
+    "registration_number": 24101024,
+    "admission_number": 24101024,
+    "roll_number": 24101024,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "R",
+      "middle_name": "",
+      "last_name": "",
+      "full_name": "BALAJI",
+      "date_of_birth": "2005-11-25",
+      "gender": "Female",
+      "blood_group": "B+",
+      "nationality": "Indian",
+      "category": "MBC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "balaji@eitpolytechnic.ac.in",
+      "phone_number": "+91 9876543217",
+      "alternate_phone": "+91 8765432116",
+      "address": {
+        "line": "89, Rajaji Street, Porur",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600116",
+        "country": "India"
+      },
+      "guardian_name": "Thyagarajan T",
+      "guardian_contact": "+91 9876543208"
+    },
+    "academic_info": {
+      "institution": "SAKTHI POLYTECHNIC COLLEGE",
+      "institution_code": 215,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001008.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001008.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001008.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001008.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001008.pdf"
+    },
+    "login_credentials": {
+      "username": "lakshmi.priya.25cs004",
+      "password_plain": "Lakshmi@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T11:45:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:37:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24101027,
+    "registration_number": 24101027,
+    "admission_number": 24101027,
+    "roll_number": 24101027,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "A R",
+      "middle_name": "",
+      "last_name": "",
+      "full_name": "JACIMA BANU",
+      "date_of_birth": "2004-08-30",
+      "gender": "Male",
+      "blood_group": "A+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "jaci1815@gmail.com",
+      "phone_number": "+91 9876543218",
+      "alternate_phone": "+91 8765432117",
+      "address": {
+        "line": "101, Bharathiyar Street, Madipakkam",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600091",
+        "country": "India"
+      },
+      "guardian_name": "Narayanan N",
+      "guardian_contact": "+91 9876543209"
+    },
+    "academic_info": {
+      "institution": "SAKTHI POLYTECHNIC COLLEGE",
+      "institution_code": 215,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001009.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001009.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001009.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001009.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001009.pdf"
+    },
+    "login_credentials": {
+      "username": "vasanth.kumar.25it001",
+      "password_plain": "Vasanth@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T12:00:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:38:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24101028,
+    "registration_number": 24101028,
+    "admission_number": 24101028,
+    "roll_number": 24101028,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "K A",
+      "middle_name": "",
+      "last_name": "",
+      "full_name": "RAMASAMY",
+      "date_of_birth": "2005-06-14",
+      "gender": "Female",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "category": "ST",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "ramasamyeitpc@gmail.com",
+      "phone_number": "+91 9876543219",
+      "alternate_phone": "+91 8765432118",
+      "address": {
+        "line": "76, Vallalar Street, Chromepet",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600044",
+        "country": "India"
+      },
+      "guardian_name": "Sundaram S",
+      "guardian_contact": "+91 9876543210"
+    },
+    "academic_info": {
+      "institution": "SAKTHI POLYTECHNIC COLLEGE",
+      "institution_code": 215,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001010.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001010.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001010.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001010.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001010.pdf"
+    },
+    "login_credentials": {
+      "username": "revathi.s.25ce002",
+      "password_plain": "Revathi@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T12:15:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:39:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24101030,
+    "registration_number": 24101030,
+    "admission_number": 24101030,
+    "roll_number": 24101030,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "S",
+      "middle_name": "",
+      "last_name": "",
+      "full_name": "PERUMAL",
+      "date_of_birth": "2004-10-05",
+      "gender": "Male",
+      "blood_group": "AB-",
+      "nationality": "Indian",
+      "category": "BC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "perumaltexsas@gmail.com",
+      "phone_number": "+91 9876543220",
+      "alternate_phone": "+91 8765432119",
+      "address": {
+        "line": "52, Ambedkar Street, Pallavaram",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600043",
+        "country": "India"
+      },
+      "guardian_name": "Krishnamurthy K",
+      "guardian_contact": "+91 9876543211"
+    },
+    "academic_info": {
+      "institution": "SAKTHI POLYTECHNIC COLLEGE",
+      "institution_code": 215,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001011.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001011.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001011.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001011.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001011.pdf"
+    },
+    "login_credentials": {
+      "username": "suresh.babu.25ee002",
+      "password_plain": "Suresh@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T12:30:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:40:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24101032,
+    "registration_number": 24101032,
+    "admission_number": 24101032,
+    "roll_number": 24101032,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "A",
+      "middle_name": "",
+      "last_name": "",
+      "full_name": "SARANYA",
+      "date_of_birth": "2005-02-28",
+      "gender": "Female",
+      "blood_group": "B+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "lookup.gk@gmail.com",
+      "phone_number": "+91 9876543221",
+      "alternate_phone": "+91 8765432120",
+      "address": {
+        "line": "18, Patel Street, Sholinganallur",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600119",
+        "country": "India"
+      },
+      "guardian_name": "Raman R",
+      "guardian_contact": "+91 9876543212"
+    },
+    "academic_info": {
+      "institution": "SAKTHI POLYTECHNIC COLLEGE",
+      "institution_code": 215,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001012.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001012.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001012.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001012.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001012.pdf"
+    },
+    "login_credentials": {
+      "username": "kavitha.devi.25cs005",
+      "password_plain": "Kavitha@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T12:45:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:41:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24101033,
+    "registration_number": 24101033,
+    "admission_number": 24101033,
+    "roll_number": 24101033,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "D",
+      "middle_name": "",
+      "last_name": "",
+      "full_name": "RAGHUKUMAR",
+      "date_of_birth": "2004-12-20",
+      "gender": "Male",
+      "blood_group": "A-",
+      "nationality": "Indian",
+      "category": "BC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "raghukumar@eitpolytechnic.ac.in",
+      "phone_number": "+91 9876543222",
+      "alternate_phone": "+91 8765432121",
+      "address": {
+        "line": "93, Tilak Street, Nanganallur",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600061",
+        "country": "India"
+      },
+      "guardian_name": "Gopal G",
+      "guardian_contact": "+91 9876543213"
+    },
+    "academic_info": {
+      "institution": "SAKTHI POLYTECHNIC COLLEGE",
+      "institution_code": 215,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001013.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001013.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001013.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001013.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001013.pdf"
+    },
+    "login_credentials": {
+      "username": "dinesh.g.25me002",
+      "password_plain": "Dinesh@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T13:00:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:42:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24101034,
+    "registration_number": 24101034,
+    "admission_number": 24101034,
+    "roll_number": 24101034,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "S",
+      "middle_name": "",
+      "last_name": "",
+      "full_name": "GOKILAPRIYA",
+      "date_of_birth": "2005-04-17",
+      "gender": "Female",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "category": "MBC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "gokilapriya@eitpolytechnic.ac.in",
+      "phone_number": "+91 9876543223",
+      "alternate_phone": "+91 8765432122",
+      "address": {
+        "line": "37, VOC Street, Saidapet",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600015",
+        "country": "India"
+      },
+      "guardian_name": "Lakshmanan L",
+      "guardian_contact": "+91 9876543214"
+    },
+    "academic_info": {
+      "institution": "SAKTHI POLYTECHNIC COLLEGE",
+      "institution_code": 215,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001014.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001014.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001014.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001014.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001014.pdf"
+    },
+    "login_credentials": {
+      "username": "meera.devi.25ec002",
+      "password_plain": "Meera@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T13:15:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:43:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24101035,
+    "registration_number": 24101035,
+    "admission_number": 24101035,
+    "roll_number": 24101035,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "A",
+      "middle_name": "",
+      "last_name": "",
+      "full_name": "ARUNRAJ",
+      "date_of_birth": "2005-01-01",
+      "gender": "Male",
+      "blood_group": "AB+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "arunrajeit@gmail.com",
+      "phone_number": "+91 9876543224",
+      "alternate_phone": "+91 8765432123",
+      "address": {
+        "line": "64, Subhash Street, Guindy",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600032",
+        "country": "India"
+      },
+      "guardian_name": "Balakrishnan B",
+      "guardian_contact": "+91 9876543215"
+    },
+    "academic_info": {
+      "institution": "SAKTHI POLYTECHNIC COLLEGE",
+      "institution_code": 215,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 1,
+      "semester": 5,
+      "ncno": 1020,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001015.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001015.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001015.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001015.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001015.pdf"
+    },
+    "login_credentials": {
+      "username": "ganesh.kumar.25it002",
+      "password_plain": "Ganesh@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T13:30:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:44:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24101036,
+    "registration_number": 24101036,
+    "admission_number": 24101036,
+    "roll_number": 24101036,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "RAVI",
+      "middle_name": "KUMAR",
+      "last_name": "S",
+      "full_name": "RAVI KUMAR S",
+      "date_of_birth": "2005-02-20",
+      "gender": "Male",
+      "blood_group": "B+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "ravi.kumar.chem@gmail.com",
+      "phone_number": "+91 9876543299",
+      "alternate_phone": "+91 8765432199",
+      "address": {
+        "line": "99, Chemical Street, Perungudi",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600096",
+        "country": "India"
+      },
+      "guardian_name": "Suresh S",
+      "guardian_contact": "+91 9876543299"
+    },
+    "academic_info": {
+      "institution": "SAKTHI POLYTECHNIC COLLEGE",
+      "institution_code": 215,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1025,
+      "date_of_admission": "2024-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "ravi.kumar.24ch001",
+      "password_plain": "Ravi@2024",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2024-07-15T09:00:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:45:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100439,
+    "registration_number": 24100439,
+    "admission_number": 24100439,
+    "roll_number": 24100439,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "KARTHIKEYAN",
+      "middle_name": "",
+      "last_name": "S",
+      "full_name": "KARTHIKEYAN",
+      "date_of_birth": "09.05.1979",
+      "gender": "Female",
+      "blood_group": "B+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "karthi07maths@gmail.com",
+      "phone_number": "+91 9876543210",
+      "alternate_phone": "+91 8765432109",
+      "address": {
+        "line": "45, Anna Street, T. Nagar",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600017",
+        "country": "India"
+      },
+      "guardian_name": "Selvam S",
+      "guardian_contact": "+91 9876543201"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "karthi07maths",
+      "password_plain": "karthi07maths@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T10:00:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:30:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100441,
+    "registration_number": 24100441,
+    "admission_number": 24100441,
+    "roll_number": 24100441,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "VINAYAGAM",
+      "middle_name": "",
+      "last_name": "S",
+      "full_name": "VINAYAGAM",
+      "date_of_birth": "29.07.1984",
+      "gender": "Male",
+      "blood_group": "A+",
+      "nationality": "Indian",
+      "category": "BC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "svinayagam81@gmail.com",
+      "phone_number": "+91 9876543211",
+      "alternate_phone": "+91 8765432110",
+      "address": {
+        "line": "12/3, Bharathi Street, Mylapore",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600004",
+        "country": "India"
+      },
+      "guardian_name": "Rajesh R",
+      "guardian_contact": "+91 9876543202"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "svinayagam81",
+      "password_plain": "svinayagam81@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T10:15:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:31:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100443,
+    "registration_number": 24100443,
+    "admission_number": 24100443,
+    "roll_number": 24100443,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "UMAMAHESWARI",
+      "middle_name": "",
+      "last_name": "T",
+      "full_name": "UMAMAHESWARI",
+      "date_of_birth": "19.04.1992",
+      "gender": "Female",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "uma.anjalai@gmail.com",
+      "phone_number": "+91 9876543212",
+      "alternate_phone": "+91 8765432111",
+      "address": {
+        "line": "78, Gandhi Road, Adyar",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600020",
+        "country": "India"
+      },
+      "guardian_name": "Murugan M",
+      "guardian_contact": "+91 9876543203"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "uma.anjalai",
+      "password_plain": "uma.anjalai@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T10:30:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:32:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100444,
+    "registration_number": 24100444,
+    "admission_number": 24100444,
+    "roll_number": 24100444,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "SARAVANAN",
+      "middle_name": "",
+      "last_name": "M",
+      "full_name": "SARAVANAN",
+      "date_of_birth": "30.04.1989",
+      "gender": "Male",
+      "blood_group": "AB+",
+      "nationality": "Indian",
+      "category": "BC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "saravananlight@gmail.com",
+      "phone_number": "+91 9876543213",
+      "alternate_phone": "+91 8765432112",
+      "address": {
+        "line": "23, Kamaraj Street, Velachery",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600042",
+        "country": "India"
+      },
+      "guardian_name": "Krishnan K",
+      "guardian_contact": "+91 9876543204"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "saravananlight",
+      "password_plain": "saravananlight@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T10:45:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:33:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100445,
+    "registration_number": 24100445,
+    "admission_number": 24100445,
+    "roll_number": 24100445,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "ISWARYA",
+      "middle_name": "",
+      "last_name": "P",
+      "full_name": "ISWARYA",
+      "date_of_birth": "24.05.1984",
+      "gender": "Male",
+      "blood_group": "B-",
+      "nationality": "Indian",
+      "category": "SC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "iswaryaperiasamy@gmail.com",
+      "phone_number": "+91 9876543214",
+      "alternate_phone": "+91 8765432113",
+      "address": {
+        "line": "56, Periyar Street, Tambaram",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600045",
+        "country": "India"
+      },
+      "guardian_name": "Palanisamy P",
+      "guardian_contact": "+91 9876543205"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "iswaryaperiasamy",
+      "password_plain": "iswaryaperiasamy@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T11:00:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:34:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100446,
+    "registration_number": 24100446,
+    "admission_number": 24100446,
+    "roll_number": 24100446,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "SUBASHCHANDRU",
+      "middle_name": "",
+      "last_name": "V",
+      "full_name": "SUBASHCHANDRU",
+      "date_of_birth": "18.10.1981",
+      "gender": "Female",
+      "blood_group": "A-",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "subashellt@gmail.com",
+      "phone_number": "+91 9876543215",
+      "alternate_phone": "+91 8765432114",
+      "address": {
+        "line": "34, Nehru Street, Kodambakkam",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600024",
+        "country": "India"
+      },
+      "guardian_name": "Venkatesh V",
+      "guardian_contact": "+91 9876543206"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "subashellt",
+      "password_plain": "subashellt@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T11:15:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:35:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100447,
+    "registration_number": 24100447,
+    "admission_number": 24100447,
+    "roll_number": 24100447,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "NIRMALA",
+      "middle_name": "",
+      "last_name": "R",
+      "full_name": "NIRMALA",
+      "date_of_birth": "21.02.1984",
+      "gender": "Male",
+      "blood_group": "O-",
+      "nationality": "Indian",
+      "category": "BC-M",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "r.nirmalatg@gmail.com",
+      "phone_number": "+91 9876543216",
+      "alternate_phone": "+91 8765432115",
+      "address": {
+        "line": "67, MGR Street, Triplicane",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600005",
+        "country": "India"
+      },
+      "guardian_name": "Abdul Rahman A",
+      "guardian_contact": "+91 9876543207"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "r.nirmalatg",
+      "password_plain": "r.nirmalatg@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T11:30:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:36:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100448,
+    "registration_number": 24100448,
+    "admission_number": 24100448,
+    "roll_number": 24100448,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "SARAVANAKUMAR",
+      "middle_name": "",
+      "last_name": "K",
+      "full_name": "SARAVANAKUMAR",
+      "date_of_birth": "17.05.1984",
+      "gender": "Female",
+      "blood_group": "B+",
+      "nationality": "Indian",
+      "category": "MBC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "metphy@gmail.com",
+      "phone_number": "+91 9876543217",
+      "alternate_phone": "+91 8765432116",
+      "address": {
+        "line": "89, Rajaji Street, Porur",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600116",
+        "country": "India"
+      },
+      "guardian_name": "Thyagarajan T",
+      "guardian_contact": "+91 9876543208"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "metphy",
+      "password_plain": "metphy@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T11:45:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:37:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100449,
+    "registration_number": 24100449,
+    "admission_number": 24100449,
+    "roll_number": 24100449,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "DINESH",
+      "middle_name": "",
+      "last_name": "B",
+      "full_name": "DINESH",
+      "date_of_birth": "05.02.1985",
+      "gender": "Male",
+      "blood_group": "A+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "din.ooti@gmail.com",
+      "phone_number": "+91 9876543218",
+      "alternate_phone": "+91 8765432117",
+      "address": {
+        "line": "101, Bharathiyar Street, Madipakkam",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600091",
+        "country": "India"
+      },
+      "guardian_name": "Narayanan N",
+      "guardian_contact": "+91 9876543209"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "din.ooti",
+      "password_plain": "din.ooti@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T12:00:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:38:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100450,
+    "registration_number": 24100450,
+    "admission_number": 24100450,
+    "roll_number": 24100450,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "SABITHA",
+      "middle_name": "",
+      "last_name": "R",
+      "full_name": "SABITHA",
+      "date_of_birth": "10.06.1974",
+      "gender": "Male",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "category": "ST",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "savithaphy@gmail.com",
+      "phone_number": "+91 9876543219",
+      "alternate_phone": "+91 8765432118",
+      "address": {
+        "line": "76, Vallalar Street, Chromepet",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600044",
+        "country": "India"
+      },
+      "guardian_name": "Sundaram S",
+      "guardian_contact": "+91 9876543210"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "savithaphy",
+      "password_plain": "savithaphy@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T12:15:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:39:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100451,
+    "registration_number": 24100451,
+    "admission_number": 24100451,
+    "roll_number": 24100451,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "KANDASAMY",
+      "middle_name": "",
+      "last_name": "A",
+      "full_name": "KANDASAMY",
+      "date_of_birth": "14.03.1968",
+      "gender": "Female",
+      "blood_group": "AB-",
+      "nationality": "Indian",
+      "category": "BC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "kutty_ksamy@yahoo.com",
+      "phone_number": "+91 9876543220",
+      "alternate_phone": "+91 8765432119",
+      "address": {
+        "line": "52, Ambedkar Street, Pallavaram",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600043",
+        "country": "India"
+      },
+      "guardian_name": "Krishnamurthy K",
+      "guardian_contact": "+91 9876543211"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "kutty_ksamy@yahoo.com",
+      "password_plain": "kutty_ksamy@yahoo.com",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T12:30:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:40:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100452,
+    "registration_number": 24100452,
+    "admission_number": 24100452,
+    "roll_number": 24100452,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "VIJILA MANONMONI",
+      "middle_name": "",
+      "last_name": "J",
+      "full_name": "VIJILA MANONMONI",
+      "date_of_birth": "19.05.1986",
+      "gender": "Male",
+      "blood_group": "B+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "vijilalovelin@gmail.com",
+      "phone_number": "+91 9876543221",
+      "alternate_phone": "+91 8765432120",
+      "address": {
+        "line": "18, Patel Street, Sholinganallur",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600119",
+        "country": "India"
+      },
+      "guardian_name": "Raman R",
+      "guardian_contact": "+91 9876543212"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "vijilalovelin",
+      "password_plain": "vijilalovelin@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T12:45:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:41:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100453,
+    "registration_number": 24100453,
+    "admission_number": 24100453,
+    "roll_number": 24100453,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "MANI",
+      "middle_name": "",
+      "last_name": "K",
+      "full_name": "MANI",
+      "date_of_birth": "25.05.1988",
+      "gender": "Female",
+      "blood_group": "A-",
+      "nationality": "Indian",
+      "category": "BC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "kmanigpt@gmail.com",
+      "phone_number": "+91 9876543222",
+      "alternate_phone": "+91 8765432121",
+      "address": {
+        "line": "93, Tilak Street, Nanganallur",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600061",
+        "country": "India"
+      },
+      "guardian_name": "Gopal G",
+      "guardian_contact": "+91 9876543213"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "COMPUTER ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "kmanigpt",
+      "password_plain": "kmanigpt@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T13:00:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:42:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100454,
+    "registration_number": 24100454,
+    "admission_number": 24100454,
+    "roll_number": 24100454,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "SAKTHIVEL",
+      "middle_name": "",
+      "last_name": "R",
+      "full_name": "SAKTHIVEL",
+      "date_of_birth": "03.05.1995",
+      "gender": "Male",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "category": "MBC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "svel7827@gmail.com",
+      "phone_number": "+91 9876543223",
+      "alternate_phone": "+91 8765432122",
+      "address": {
+        "line": "37, VOC Street, Saidapet",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600015",
+        "country": "India"
+      },
+      "guardian_name": "Lakshmanan L",
+      "guardian_contact": "+91 9876543214"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "svel7827",
+      "password_plain": "svel7827@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T13:15:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:43:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100457,
+    "registration_number": 24100457,
+    "admission_number": 24100457,
+    "roll_number": 24100457,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "VASANTHI",
+      "middle_name": "",
+      "last_name": "G",
+      "full_name": "VASANTHI",
+      "date_of_birth": "20.04.1988",
+      "gender": "Female",
+      "blood_group": "AB+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "gvasanthi46@gmail.com",
+      "phone_number": "+91 9876543224",
+      "alternate_phone": "+91 8765432123",
+      "address": {
+        "line": "64, Subhash Street, Guindy",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600032",
+        "country": "India"
+      },
+      "guardian_name": "Balakrishnan B",
+      "guardian_contact": "+91 9876543215"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "gvasanthi46",
+      "password_plain": "gvasanthi46@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T13:30:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:44:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100458,
+    "registration_number": 24100458,
+    "admission_number": 24100458,
+    "roll_number": 24100458,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "KAMALRAJ",
+      "middle_name": "",
+      "last_name": "N",
+      "full_name": "KAMALRAJ",
+      "date_of_birth": "10.07.1997",
+      "gender": "Male",
+      "blood_group": "B+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "kamalmech1295@gmail.com",
+      "phone_number": "+91 9876543210",
+      "alternate_phone": "+91 8765432109",
+      "address": {
+        "line": "45, Anna Street, T. Nagar",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600017",
+        "country": "India"
+      },
+      "guardian_name": "Selvam S",
+      "guardian_contact": "+91 9876543201"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "kamalmech1295",
+      "password_plain": "kamalmech1295@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T10:00:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:30:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100439,
+    "registration_number": 24100439,
+    "admission_number": 24100439,
+    "roll_number": 24100439,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "BALAMANI",
+      "middle_name": "",
+      "last_name": "P",
+      "full_name": "BALAMANI",
+      "date_of_birth": "26.06.1992",
+      "gender": "Male",
+      "blood_group": "A+",
+      "nationality": "Indian",
+      "category": "BC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "balamanisp@gmail.com",
+      "phone_number": "+91 9876543211",
+      "alternate_phone": "+91 8765432110",
+      "address": {
+        "line": "12/3, Bharathi Street, Mylapore",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600004",
+        "country": "India"
+      },
+      "guardian_name": "Rajesh R",
+      "guardian_contact": "+91 9876543202"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "balamanisp",
+      "password_plain": "balamanisp@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T10:15:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:31:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100441,
+    "registration_number": 24100441,
+    "admission_number": 24100441,
+    "roll_number": 24100441,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "KARTHICK",
+      "middle_name": "",
+      "last_name": "M P",
+      "full_name": "KARTHICK",
+      "date_of_birth": "03.09.1997",
+      "gender": "Female",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "mpkarthickvalar@gmail.com",
+      "phone_number": "+91 9876543212",
+      "alternate_phone": "+91 8765432111",
+      "address": {
+        "line": "78, Gandhi Road, Adyar",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600020",
+        "country": "India"
+      },
+      "guardian_name": "Murugan M",
+      "guardian_contact": "+91 9876543203"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "mpkarthickvalar",
+      "password_plain": "mpkarthickvalar@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T10:30:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:32:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100443,
+    "registration_number": 24100443,
+    "admission_number": 24100443,
+    "roll_number": 24100443,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "SOWMYA",
+      "middle_name": "",
+      "last_name": "M",
+      "full_name": "SOWMYA",
+      "date_of_birth": "07.04.1994",
+      "gender": "Female",
+      "blood_group": "AB+",
+      "nationality": "Indian",
+      "category": "BC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "sowmya26mech@gmail.com",
+      "phone_number": "+91 9876543213",
+      "alternate_phone": "+91 8765432112",
+      "address": {
+        "line": "23, Kamaraj Street, Velachery",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600042",
+        "country": "India"
+      },
+      "guardian_name": "Krishnan K",
+      "guardian_contact": "+91 9876543204"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "sowmya26mech",
+      "password_plain": "sowmya26mech@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T10:45:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:33:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100444,
+    "registration_number": 24100444,
+    "admission_number": 24100444,
+    "roll_number": 24100444,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "BARATH GAANTH",
+      "middle_name": "",
+      "last_name": "M S",
+      "full_name": "BARATH GAANTH",
+      "date_of_birth": "05.01.1984",
+      "gender": "Female",
+      "blood_group": "B-",
+      "nationality": "Indian",
+      "category": "SC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "barathperumal03@gmail.com",
+      "phone_number": "+91 9876543214",
+      "alternate_phone": "+91 8765432113",
+      "address": {
+        "line": "56, Periyar Street, Tambaram",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600045",
+        "country": "India"
+      },
+      "guardian_name": "Palanisamy P",
+      "guardian_contact": "+91 9876543205"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "barathperumal03",
+      "password_plain": "barathperumal03@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T11:00:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:34:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100445,
+    "registration_number": 24100445,
+    "admission_number": 24100445,
+    "roll_number": 24100445,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "GOPAL",
+      "middle_name": "",
+      "last_name": "G",
+      "full_name": "GOPAL",
+      "date_of_birth": "03.02.1998",
+      "gender": "Male",
+      "blood_group": "A-",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "gopalg255@gmail.com",
+      "phone_number": "+91 9876543215",
+      "alternate_phone": "+91 8765432114",
+      "address": {
+        "line": "34, Nehru Street, Kodambakkam",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600024",
+        "country": "India"
+      },
+      "guardian_name": "Venkatesh V",
+      "guardian_contact": "+91 9876543206"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "gopalg255",
+      "password_plain": "gopalg255@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T11:15:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:35:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100446,
+    "registration_number": 24100446,
+    "admission_number": 24100446,
+    "roll_number": 24100446,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "VIJAYALAKSHMI",
+      "middle_name": "",
+      "last_name": "P",
+      "full_name": "VIJAYALAKSHMI",
+      "date_of_birth": "23.12.1989",
+      "gender": "Male",
+      "blood_group": "O-",
+      "nationality": "Indian",
+      "category": "BC-M",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "viji.giri@yahoo.in",
+      "phone_number": "+91 9876543216",
+      "alternate_phone": "+91 8765432115",
+      "address": {
+        "line": "67, MGR Street, Triplicane",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600005",
+        "country": "India"
+      },
+      "guardian_name": "Abdul Rahman A",
+      "guardian_contact": "+91 9876543207"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "viji.giri@yahoo.in",
+      "password_plain": "viji.giri@yahoo.in",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T11:30:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:36:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100447,
+    "registration_number": 24100447,
+    "admission_number": 24100447,
+    "roll_number": 24100447,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "LAVANYAA",
+      "middle_name": "",
+      "last_name": "P",
+      "full_name": "LAVANYAA",
+      "date_of_birth": "14.11.1994",
+      "gender": "Female",
+      "blood_group": "B+",
+      "nationality": "Indian",
+      "category": "MBC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "lavanyaaperiyannan03@gmail.com",
+      "phone_number": "+91 9876543217",
+      "alternate_phone": "+91 8765432116",
+      "address": {
+        "line": "89, Rajaji Street, Porur",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600116",
+        "country": "India"
+      },
+      "guardian_name": "Thyagarajan T",
+      "guardian_contact": "+91 9876543208"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "lavanyaaperiyannan03",
+      "password_plain": "lavanyaaperiyannan03@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T11:45:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:37:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100448,
+    "registration_number": 24100448,
+    "admission_number": 24100448,
+    "roll_number": 24100448,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "GOLDIN PRISCILLA",
+      "middle_name": "",
+      "last_name": "C P",
+      "full_name": "GOLDIN PRISCILLA",
+      "date_of_birth": "25.06.1998",
+      "gender": "Male",
+      "blood_group": "A+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "christogoldin@gmail.com",
+      "phone_number": "+91 9876543218",
+      "alternate_phone": "+91 8765432117",
+      "address": {
+        "line": "101, Bharathiyar Street, Madipakkam",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600091",
+        "country": "India"
+      },
+      "guardian_name": "Narayanan N",
+      "guardian_contact": "+91 9876543209"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "christogoldin",
+      "password_plain": "christogoldin@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T12:00:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:38:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100449,
+    "registration_number": 24100449,
+    "admission_number": 24100449,
+    "roll_number": 24100449,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "DHEENADHAYALAN",
+      "middle_name": "",
+      "last_name": "R",
+      "full_name": "DHEENADHAYALAN",
+      "date_of_birth": "09.11.1993",
+      "gender": "Female",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "category": "ST",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "rdheenadhayalanme@gmail.com",
+      "phone_number": "+91 9876543219",
+      "alternate_phone": "+91 8765432118",
+      "address": {
+        "line": "76, Vallalar Street, Chromepet",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600044",
+        "country": "India"
+      },
+      "guardian_name": "Sundaram S",
+      "guardian_contact": "+91 9876543210"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "rdheenadhayalanme",
+      "password_plain": "rdheenadhayalanme@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T12:15:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:39:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100450,
+    "registration_number": 24100450,
+    "admission_number": 24100450,
+    "roll_number": 24100450,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "HARI PRASATH",
+      "middle_name": "",
+      "last_name": "T",
+      "full_name": "HARI PRASATH",
+      "date_of_birth": "02.10.1984",
+      "gender": "Female",
+      "blood_group": "AB-",
+      "nationality": "Indian",
+      "category": "BC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "hariprasathnkt@gmail.com",
+      "phone_number": "+91 9876543220",
+      "alternate_phone": "+91 8765432119",
+      "address": {
+        "line": "52, Ambedkar Street, Pallavaram",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600043",
+        "country": "India"
+      },
+      "guardian_name": "Krishnamurthy K",
+      "guardian_contact": "+91 9876543211"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "hariprasathnkt",
+      "password_plain": "hariprasathnkt@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T12:30:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:40:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100451,
+    "registration_number": 24100451,
+    "admission_number": 24100451,
+    "roll_number": 24100451,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "MONIKASRI",
+      "middle_name": "",
+      "last_name": "V R",
+      "full_name": "MONIKASRI",
+      "date_of_birth": "13.05.1990",
+      "gender": "Male",
+      "blood_group": "B+",
+      "nationality": "Indian",
+      "category": "OC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "monicivil2022@gmail.com",
+      "phone_number": "+91 9876543221",
+      "alternate_phone": "+91 8765432120",
+      "address": {
+        "line": "18, Patel Street, Sholinganallur",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600119",
+        "country": "India"
+      },
+      "guardian_name": "Raman R",
+      "guardian_contact": "+91 9876543212"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "monicivil2022",
+      "password_plain": "monicivil2022@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T12:45:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:41:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100452,
+    "registration_number": 24100452,
+    "admission_number": 24100452,
+    "roll_number": 24100452,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "PARAMESHWARAN",
+      "middle_name": "",
+      "last_name": "R",
+      "full_name": "PARAMESHWARAN",
+      "date_of_birth": "07.11.1982",
+      "gender": "Female",
+      "blood_group": "A-",
+      "nationality": "Indian",
+      "category": "BC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "paramu32@gmail.com",
+      "phone_number": "+91 9876543222",
+      "alternate_phone": "+91 8765432121",
+      "address": {
+        "line": "93, Tilak Street, Nanganallur",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600061",
+        "country": "India"
+      },
+      "guardian_name": "Gopal G",
+      "guardian_contact": "+91 9876543213"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-15"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "paramu32",
+      "password_plain": "paramu32@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T13:00:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:42:00.000Z",
+      "updated_by": "admin"
+    }
+  },
+  {
+    "student_id": 24100453,
+    "registration_number": 24100453,
+    "admission_number": 24100453,
+    "roll_number": 24100453,
+    "status": "Active",
+    "personal_info": {
+      "first_name": "CHITRA",
+      "middle_name": "",
+      "last_name": "R",
+      "full_name": "CHITRA",
+      "date_of_birth": "04.06.1986",
+      "gender": "Female",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "category": "MBC",
+      "religion": "Hindu"
+    },
+    "contact_info": {
+      "email": "chitrarithin@gmail.com",
+      "phone_number": "+91 9876543223",
+      "alternate_phone": "+91 8765432122",
+      "address": {
+        "line": "37, VOC Street, Saidapet",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600015",
+        "country": "India"
+      },
+      "guardian_name": "Lakshmanan L",
+      "guardian_contact": "+91 9876543214"
+    },
+    "academic_info": {
+      "institution": "KONGU POLYTECHNIC COLLEGE",
+      "institution_code": 132,
+      "educational_authority": "DOTE",
+      "program": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
+      "year": 2,
+      "semester": 3,
+      "ncno": 1010,
+      "date_of_admission": "2025-07-16"
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/25001099.jpg",
+      "id_proof": "/uploads/docs/aadhar_25001099.pdf",
+      "marksheet_10": "/uploads/docs/sslc_25001099.pdf",
+      "marksheet_12": "/uploads/docs/hsc_25001099.pdf",
+      "transfer_certificate": "/uploads/docs/tc_25001099.pdf"
+    },
+    "login_credentials": {
+      "username": "chitrarithin",
+      "password_plain": "chitrarithin@2025",
+      "otp_verified": false
+    },
+    "metadata": {
+      "created_at": "2025-07-15T13:15:00.000Z",
+      "created_by": "admin",
+      "updated_at": "2025-08-12T20:43:00.000Z",
+      "updated_by": "admin"
+    }
+  }
+]

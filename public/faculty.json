@@ -1,0 +1,3882 @@
+[
+  {
+    "faculty_id": 22142001,
+    "employee_number": 22142001,
+    "joining_date": "2022-07-15",
+    "designation": "Assistant Professor",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Artificial Intelligence",
+    "employment_type": "Full-Time",
+    "experience_years": 4,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "BALAMURUGAN",
+      "last_name": "O K",
+      "full_name": "BALAMURUGAN",
+      "date_of_birth": "1988-04-22",
+      "gender": "Female",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "blmurugank16@gmail.com",
+      "phone_number": "+919812345678",
+      "alternate_phone": "+919812345679",
+      "address": {
+        "line": "45 MG Road",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600034",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ravi Nair",
+        "relationship": "Husband",
+        "phone": "+919812347890"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "Anna University",
+      "ug_year": 2008,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Madras",
+      "pg_year": 2011,
+      "phd_subject": "Deep Learning in Medical Imaging",
+      "phd_institution": "IIT Madras",
+      "phd_year": 2016,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 4,
+      "industry_experience": 0,
+      "research_experience": 4,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025001.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025001.pdf",
+      "degree_certificates": [
+        "/uploads/docs/phd_cert_F2025001.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 123456789012,
+      "pan_number": "ABCDE1234F",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "anjali.nair",
+      "password_plain": "Anjali@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2022-07-15T09:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 215,
+    "institution_name": "SAKTHI POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 32142001,
+    "employee_number": 32142001,
+    "joining_date": "2021-08-10",
+    "designation": "Associate Professor",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Manufacturing Technology",
+    "employment_type": "Full-Time",
+    "experience_years": 9,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "GANESAN",
+      "last_name": "C",
+      "full_name": "GANESAN",
+      "date_of_birth": "1984-09-12",
+      "gender": "Male",
+      "blood_group": "A+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "ganesanmepgdmm@gmail.com",
+      "phone_number": "+919812345001",
+      "alternate_phone": "+919812345002",
+      "address": {
+        "line": "89 Tech Park",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600037",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Priya Sharma",
+        "relationship": "Wife",
+        "phone": "+919812345003"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "NIT Warangal",
+      "ug_year": 2006,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Bombay",
+      "pg_year": 2008,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 9,
+      "industry_experience": 0,
+      "research_experience": 9,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025002.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025002.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mtech_cert_F2025002.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 987654321098,
+      "pan_number": "FGHIJ5678K",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "rohit.sharma",
+      "password_plain": "Rohit@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2021-08-10T10:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 215,
+    "institution_name": "SAKTHI POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 22142002,
+    "employee_number": 22142002,
+    "joining_date": "2020-01-05",
+    "designation": "Professor",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Signal Processing",
+    "employment_type": "Full-Time",
+    "experience_years": 15,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "DINESH",
+      "last_name": "J",
+      "full_name": "DINESH",
+      "date_of_birth": "1980-11-05",
+      "gender": "Female",
+      "blood_group": "B+",
+      "nationality": "Indian",
+      "marital_status": "Single",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "dineshjayeit@gmail.com",
+      "phone_number": "+919812340000",
+      "alternate_phone": "",
+      "address": {
+        "line": "150 Industrial Estate",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600038",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Amit Singh",
+        "relationship": "Brother",
+        "phone": "+919812349999"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "Anna University",
+      "ug_year": 2001,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Delhi",
+      "pg_year": 2003,
+      "phd_subject": "Digital Signal Processing in Communications",
+      "phd_institution": "IIT Delhi",
+      "phd_year": 2008,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 15,
+      "industry_experience": 0,
+      "research_experience": 15,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025003.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025003.pdf",
+      "degree_certificates": [
+        "/uploads/docs/phd_cert_F2025003.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 112233445566,
+      "pan_number": "LMNOP2345Q",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "meena.kumari",
+      "password_plain": "Meena@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2020-01-05T08:30:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 215,
+    "institution_name": "SAKTHI POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 22142004,
+    "employee_number": 22142004,
+    "joining_date": "2023-06-20",
+    "designation": "Assistant Professor",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Structural Engineering",
+    "employment_type": "Full-Time",
+    "experience_years": 6,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Dr",
+      "middle_name": "GOKUL",
+      "last_name": "L S",
+      "full_name": "GOKUL",
+      "date_of_birth": "1990-03-18",
+      "gender": "Male",
+      "blood_group": "AB+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "lsgokulmech@gmail.com",
+      "phone_number": "+919812347001",
+      "alternate_phone": "",
+      "address": {
+        "line": "76 Main Road",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Sneha Raj",
+        "relationship": "Wife",
+        "phone": "+919812347002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "JNTU Hyderabad",
+      "ug_year": 2011,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Roorkee",
+      "pg_year": 2013,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 6,
+      "industry_experience": 0,
+      "research_experience": 6,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025004.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025004.pdf",
+      "degree_certificates": [
+        "/uploads/docs/pg_cert_F2025004.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 556677889900,
+      "pan_number": "QRSTU6789L",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "arjun.raj",
+      "password_plain": "Arjun@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2023-06-20T11:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 215,
+    "institution_name": "SAKTHI POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 22142005,
+    "employee_number": 22142005,
+    "joining_date": "2021-09-01",
+    "designation": "Assistant Professor",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Web Development",
+    "employment_type": "Full-Time",
+    "experience_years": 5,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "GOWTHAM",
+      "last_name": "S",
+      "full_name": "GOWTHAM",
+      "date_of_birth": "1992-05-14",
+      "gender": "Female",
+      "blood_group": "O-",
+      "nationality": "Indian",
+      "marital_status": "Single",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "gowthamcithpe@gmail.com",
+      "phone_number": "+919812348001",
+      "alternate_phone": "",
+      "address": {
+        "line": "123 Tech Street",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Lakshmi Devi",
+        "relationship": "Mother",
+        "phone": "+919812348002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "Anna University",
+      "ug_year": 2013,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Chennai",
+      "pg_year": 2015,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 5,
+      "industry_experience": 3,
+      "research_experience": 2,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025005.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025005.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mtech_cert_F2025005.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 777888999000,
+      "pan_number": "PRIYA1234X",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "priya.devi",
+      "password_plain": "Priya@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2021-09-01T09:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 215,
+    "institution_name": "SAKTHI POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 22142006,
+    "employee_number": 22142006,
+    "joining_date": "2022-03-15",
+    "designation": "Senior Lecturer",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Process Engineering",
+    "employment_type": "Full-Time",
+    "experience_years": 8,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "ADHARSH",
+      "last_name": "J",
+      "full_name": "ADHARSH",
+      "date_of_birth": "1986-12-10",
+      "gender": "Male",
+      "blood_group": "A-",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "adharshjaisankar@gmail.com",
+      "phone_number": "+919812349001",
+      "alternate_phone": "+919812349002",
+      "address": {
+        "line": "456 Chemical Complex",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Deepa Mohan",
+        "relationship": "Wife",
+        "phone": "+919812349003"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "Anna University",
+      "ug_year": 2007,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Bombay",
+      "pg_year": 2009,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 8,
+      "industry_experience": 3,
+      "research_experience": 5,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025006.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025006.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mtech_cert_F2025006.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 111222333444,
+      "pan_number": "KARTH1234Y",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "karthik.mohan",
+      "password_plain": "Karthik@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2022-03-15T10:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 215,
+    "institution_name": "SAKTHI POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 22146008,
+    "employee_number": 22146008,
+    "joining_date": "2020-08-01",
+    "designation": "Associate Professor",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Tanning Chemistry",
+    "employment_type": "Full-Time",
+    "experience_years": 12,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Tmt",
+      "middle_name": "KANIMOZHI",
+      "last_name": "J",
+      "full_name": "KANIMOZHI",
+      "date_of_birth": "1983-07-25",
+      "gender": "Female",
+      "blood_group": "B-",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "kanimozhieit@gmail.com",
+      "phone_number": "+919812350001",
+      "alternate_phone": "",
+      "address": {
+        "line": "789 Leather Complex",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ramesh Krishnan",
+        "relationship": "Husband",
+        "phone": "+919812350002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.Tech",
+      "ug_institution": "CLFTI Chennai",
+      "ug_year": 2004,
+      "pg_degree": "M.Tech",
+      "pg_institution": "CLFTI Chennai",
+      "pg_year": 2006,
+      "phd_subject": "Eco-friendly Tanning Processes",
+      "phd_institution": "Anna University",
+      "phd_year": 2012,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 12,
+      "industry_experience": 4,
+      "research_experience": 8,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025007.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025007.pdf",
+      "degree_certificates": [
+        "/uploads/docs/phd_cert_F2025007.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 555666777888,
+      "pan_number": "SUNIT1234Z",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "sunitha.krishnan",
+      "password_plain": "Sunitha@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2020-08-01T11:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 101,
+    "institution_name": "CENTRAL POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 22140701,
+    "employee_number": 22140701,
+    "joining_date": "2023-01-15",
+    "designation": "Assistant Professor",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Fabric Technology",
+    "employment_type": "Full-Time",
+    "experience_years": 4,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "BALAJI",
+      "last_name": "R",
+      "full_name": "BALAJI",
+      "date_of_birth": "1991-09-30",
+      "gender": "Male",
+      "blood_group": "AB-",
+      "nationality": "Indian",
+      "marital_status": "Single",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "balaji@eitpolytechnic.ac.in",
+      "phone_number": "+919812351001",
+      "alternate_phone": "",
+      "address": {
+        "line": "321 Textile Complex",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rajesh Singh",
+        "relationship": "Father",
+        "phone": "+919812351002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.Tech",
+      "ug_institution": "NIFT Delhi",
+      "ug_year": 2012,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Delhi",
+      "pg_year": 2014,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 4,
+      "industry_experience": 2,
+      "research_experience": 2,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025008.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025008.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mtech_cert_F2025008.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 999000111222,
+      "pan_number": "VIJAY1234A",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "vijay.singh",
+      "password_plain": "Vijay@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2023-01-15T09:30:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 101,
+    "institution_name": "CENTRAL POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 32146002,
+    "employee_number": 32146002,
+    "joining_date": "2021-11-01",
+    "designation": "Lecturer",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "International Trade",
+    "employment_type": "Full-Time",
+    "experience_years": 6,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Tmt",
+      "middle_name": "JACIMA BANU",
+      "last_name": "A R",
+      "full_name": "JACIMA BANU",
+      "date_of_birth": "1989-02-14",
+      "gender": "Female",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "jaci1815@gmail.com",
+      "phone_number": "+919812352001",
+      "alternate_phone": "+919812352002",
+      "address": {
+        "line": "654 Commerce Complex",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Srinivas Reddy",
+        "relationship": "Husband",
+        "phone": "+919812352003"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.Com",
+      "ug_institution": "Osmania University",
+      "ug_year": 2010,
+      "pg_degree": "M.Com",
+      "pg_institution": "Osmania University",
+      "pg_year": 2012,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 6,
+      "industry_experience": 3,
+      "research_experience": 3,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025009.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025009.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mcom_cert_F2025009.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 123321456654,
+      "pan_number": "LAKSH1234B",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "lakshmi.reddy",
+      "password_plain": "Lakshmi@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2021-11-01T10:30:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 101,
+    "institution_name": "CENTRAL POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 22146002,
+    "employee_number": 22146002,
+    "joining_date": "2022-07-01",
+    "designation": "Senior Lecturer",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Development Economics",
+    "employment_type": "Full-Time",
+    "experience_years": 9,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Dr",
+      "middle_name": "RAMASAMY",
+      "last_name": "K A",
+      "full_name": "RAMASAMY",
+      "date_of_birth": "1985-06-18",
+      "gender": "Male",
+      "blood_group": "A+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "ramasamyeitpc@gmail.com",
+      "phone_number": "+919812353001",
+      "alternate_phone": "",
+      "address": {
+        "line": "876 Economics Block",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Sujatha Nair",
+        "relationship": "Wife",
+        "phone": "+919812353002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.A.",
+      "ug_institution": "University of Kerala",
+      "ug_year": 2006,
+      "pg_degree": "M.A.",
+      "pg_institution": "Delhi School of Economics",
+      "pg_year": 2008,
+      "phd_subject": "Rural Economic Development",
+      "phd_institution": "JNU Delhi",
+      "phd_year": 2014,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 9,
+      "industry_experience": 2,
+      "research_experience": 7,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025010.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025010.pdf",
+      "degree_certificates": [
+        "/uploads/docs/phd_cert_F2025010.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 789987456456,
+      "pan_number": "RAJES1234C",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "rajesh.nair",
+      "password_plain": "Rajesh@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2022-07-01T11:30:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 101,
+    "institution_name": "CENTRAL POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11028201,
+    "employee_number": 11028201,
+    "joining_date": "2022-07-15",
+    "designation": "Assistant Professor",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Artificial Intelligence",
+    "employment_type": "Full-Time",
+    "experience_years": 4,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Anjali",
+      "middle_name": "Meera",
+      "last_name": "Nair",
+      "full_name": "Anjali Meera Nair",
+      "date_of_birth": "1988-04-22",
+      "gender": "Female",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "anjali.nair@gmail.com",
+      "phone_number": "+919812345678",
+      "alternate_phone": "+919812345679",
+      "address": {
+        "line": "45 MG Road",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600034",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ravi Nair",
+        "relationship": "Husband",
+        "phone": "+919812347890"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "Anna University",
+      "ug_year": 2008,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Madras",
+      "pg_year": 2011,
+      "phd_subject": "Deep Learning in Medical Imaging",
+      "phd_institution": "IIT Madras",
+      "phd_year": 2016,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 4,
+      "industry_experience": 0,
+      "research_experience": 4,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025001.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025001.pdf",
+      "degree_certificates": [
+        "/uploads/docs/phd_cert_F2025001.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 123456789012,
+      "pan_number": "ABCDE1234F",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "anjali.nair",
+      "password_plain": "Anjali@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2022-07-15T09:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 101,
+    "institution_name": "CENTRAL POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11028202,
+    "employee_number": 11028202,
+    "joining_date": "2021-08-10",
+    "designation": "Associate Professor",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Manufacturing Technology",
+    "employment_type": "Full-Time",
+    "experience_years": 9,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Rohit",
+      "middle_name": "Kumar",
+      "last_name": "Sharma",
+      "full_name": "Rohit Kumar Sharma",
+      "date_of_birth": "1984-09-12",
+      "gender": "Male",
+      "blood_group": "A+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "rohit.sharma@gmail.com",
+      "phone_number": "+919812345001",
+      "alternate_phone": "+919812345002",
+      "address": {
+        "line": "89 Tech Park",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600037",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Priya Sharma",
+        "relationship": "Wife",
+        "phone": "+919812345003"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "NIT Warangal",
+      "ug_year": 2006,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Bombay",
+      "pg_year": 2008,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 9,
+      "industry_experience": 0,
+      "research_experience": 9,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025002.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025002.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mtech_cert_F2025002.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 987654321098,
+      "pan_number": "FGHIJ5678K",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "rohit.sharma",
+      "password_plain": "Rohit@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2021-08-10T10:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 101,
+    "institution_name": "CENTRAL POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11020401,
+    "employee_number": 11020401,
+    "joining_date": "2020-01-05",
+    "designation": "Professor",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Signal Processing",
+    "employment_type": "Full-Time",
+    "experience_years": 15,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Meena",
+      "middle_name": "Devi",
+      "last_name": "Kumari",
+      "full_name": "Meena Devi Kumari",
+      "date_of_birth": "1980-11-05",
+      "gender": "Female",
+      "blood_group": "B+",
+      "nationality": "Indian",
+      "marital_status": "Single",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "meena.kumari@gmail.com",
+      "phone_number": "+919812340000",
+      "alternate_phone": "",
+      "address": {
+        "line": "150 Industrial Estate",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600038",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Amit Singh",
+        "relationship": "Brother",
+        "phone": "+919812349999"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "Anna University",
+      "ug_year": 2001,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Delhi",
+      "pg_year": 2003,
+      "phd_subject": "Digital Signal Processing in Communications",
+      "phd_institution": "IIT Delhi",
+      "phd_year": 2008,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 15,
+      "industry_experience": 0,
+      "research_experience": 15,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025003.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025003.pdf",
+      "degree_certificates": [
+        "/uploads/docs/phd_cert_F2025003.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 112233445566,
+      "pan_number": "LMNOP2345Q",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "meena.kumari",
+      "password_plain": "Meena@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2020-01-05T08:30:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 101,
+    "institution_name": "CENTRAL POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11028203,
+    "employee_number": 11028203,
+    "joining_date": "2023-06-20",
+    "designation": "Assistant Professor",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Structural Engineering",
+    "employment_type": "Full-Time",
+    "experience_years": 6,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Arjun",
+      "middle_name": "Krishna",
+      "last_name": "Raj",
+      "full_name": "Arjun Krishna Raj",
+      "date_of_birth": "1990-03-18",
+      "gender": "Male",
+      "blood_group": "AB+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "arjun.raj@gmail.com",
+      "phone_number": "+919812347001",
+      "alternate_phone": "",
+      "address": {
+        "line": "76 Main Road",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Sneha Raj",
+        "relationship": "Wife",
+        "phone": "+919812347002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "JNTU Hyderabad",
+      "ug_year": 2011,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Roorkee",
+      "pg_year": 2013,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 6,
+      "industry_experience": 0,
+      "research_experience": 6,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025004.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025004.pdf",
+      "degree_certificates": [
+        "/uploads/docs/pg_cert_F2025004.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 556677889900,
+      "pan_number": "QRSTU6789L",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "arjun.raj",
+      "password_plain": "Arjun@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2023-06-20T11:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 101,
+    "institution_name": "CENTRAL POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11020101,
+    "employee_number": 11020101,
+    "joining_date": "2021-09-01",
+    "designation": "Assistant Professor",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Web Development",
+    "employment_type": "Full-Time",
+    "experience_years": 5,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Priya",
+      "middle_name": "Lakshmi",
+      "last_name": "Devi",
+      "full_name": "Priya Lakshmi Devi",
+      "date_of_birth": "1992-05-14",
+      "gender": "Female",
+      "blood_group": "O-",
+      "nationality": "Indian",
+      "marital_status": "Single",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "priya.devi@gmail.com",
+      "phone_number": "+919812348001",
+      "alternate_phone": "",
+      "address": {
+        "line": "123 Tech Street",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Lakshmi Devi",
+        "relationship": "Mother",
+        "phone": "+919812348002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "Anna University",
+      "ug_year": 2013,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Chennai",
+      "pg_year": 2015,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 5,
+      "industry_experience": 3,
+      "research_experience": 2,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025005.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025005.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mtech_cert_F2025005.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 777888999000,
+      "pan_number": "PRIYA1234X",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "priya.devi",
+      "password_plain": "Priya@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2021-09-01T09:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 215,
+    "institution_name": "SAKTHI POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11028205,
+    "employee_number": 11028205,
+    "joining_date": "2022-03-15",
+    "designation": "Senior Lecturer",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Process Engineering",
+    "employment_type": "Full-Time",
+    "experience_years": 8,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Karthik",
+      "middle_name": "Raj",
+      "last_name": "Mohan",
+      "full_name": "Karthik Raj Mohan",
+      "date_of_birth": "1986-12-10",
+      "gender": "Male",
+      "blood_group": "A-",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "karthik.mohan@gmail.com",
+      "phone_number": "+919812349001",
+      "alternate_phone": "+919812349002",
+      "address": {
+        "line": "456 Chemical Complex",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Deepa Mohan",
+        "relationship": "Wife",
+        "phone": "+919812349003"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "Anna University",
+      "ug_year": 2007,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Bombay",
+      "pg_year": 2009,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 8,
+      "industry_experience": 3,
+      "research_experience": 5,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025006.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025006.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mtech_cert_F2025006.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 111222333444,
+      "pan_number": "KARTH1234Y",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "karthik.mohan",
+      "password_plain": "Karthik@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2022-03-15T10:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 215,
+    "institution_name": "SAKTHI POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 41025202,
+    "employee_number": 41025202,
+    "joining_date": "2020-08-01",
+    "designation": "Associate Professor",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Tanning Chemistry",
+    "employment_type": "Full-Time",
+    "experience_years": 12,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Sunitha",
+      "middle_name": "Bai",
+      "last_name": "Krishnan",
+      "full_name": "Sunitha Bai Krishnan",
+      "date_of_birth": "1983-07-25",
+      "gender": "Female",
+      "blood_group": "B-",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "sunitha.krishnan@instituteleathertech.com",
+      "phone_number": "+919812350001",
+      "alternate_phone": "",
+      "address": {
+        "line": "789 Leather Complex",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ramesh Krishnan",
+        "relationship": "Husband",
+        "phone": "+919812350002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.Tech",
+      "ug_institution": "CLFTI Chennai",
+      "ug_year": 2004,
+      "pg_degree": "M.Tech",
+      "pg_institution": "CLFTI Chennai",
+      "pg_year": 2006,
+      "phd_subject": "Eco-friendly Tanning Processes",
+      "phd_institution": "Anna University",
+      "phd_year": 2012,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 12,
+      "industry_experience": 4,
+      "research_experience": 8,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025007.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025007.pdf",
+      "degree_certificates": [
+        "/uploads/docs/phd_cert_F2025007.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 555666777888,
+      "pan_number": "SUNIT1234Z",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "sunitha.krishnan",
+      "password_plain": "Sunitha@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2020-08-01T11:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 215,
+    "institution_name": "SAKTHI POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11028204,
+    "employee_number": 11028204,
+    "joining_date": "2023-01-15",
+    "designation": "Assistant Professor",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Fabric Technology",
+    "employment_type": "Full-Time",
+    "experience_years": 4,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Vijay",
+      "middle_name": "Kumar",
+      "last_name": "Singh",
+      "full_name": "Vijay Kumar Singh",
+      "date_of_birth": "1991-09-30",
+      "gender": "Male",
+      "blood_group": "AB-",
+      "nationality": "Indian",
+      "marital_status": "Single",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "vijay.singh@institutetextiletech.com",
+      "phone_number": "+919812351001",
+      "alternate_phone": "",
+      "address": {
+        "line": "321 Textile Complex",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rajesh Singh",
+        "relationship": "Father",
+        "phone": "+919812351002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.Tech",
+      "ug_institution": "NIFT Delhi",
+      "ug_year": 2012,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Delhi",
+      "pg_year": 2014,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 4,
+      "industry_experience": 2,
+      "research_experience": 2,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025008.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025008.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mtech_cert_F2025008.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 999000111222,
+      "pan_number": "VIJAY1234A",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "vijay.singh",
+      "password_plain": "Vijay@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2023-01-15T09:30:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 215,
+    "institution_name": "SAKTHI POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 41028207,
+    "employee_number": 41028207,
+    "joining_date": "2021-11-01",
+    "designation": "Lecturer",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "International Trade",
+    "employment_type": "Full-Time",
+    "experience_years": 6,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Lakshmi",
+      "middle_name": "Priya",
+      "last_name": "Reddy",
+      "full_name": "Lakshmi Priya Reddy",
+      "date_of_birth": "1989-02-14",
+      "gender": "Female",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "lakshmi.reddy@statecommerceinsititute.com",
+      "phone_number": "+919812352001",
+      "alternate_phone": "+919812352002",
+      "address": {
+        "line": "654 Commerce Complex",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Srinivas Reddy",
+        "relationship": "Husband",
+        "phone": "+919812352003"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.Com",
+      "ug_institution": "Osmania University",
+      "ug_year": 2010,
+      "pg_degree": "M.Com",
+      "pg_institution": "Osmania University",
+      "pg_year": 2012,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 6,
+      "industry_experience": 3,
+      "research_experience": 3,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025009.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025009.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mcom_cert_F2025009.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 123321456654,
+      "pan_number": "LAKSH1234B",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "lakshmi.reddy",
+      "password_plain": "Lakshmi@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2021-11-01T10:30:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 215,
+    "institution_name": "SAKTHI POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 41028209,
+    "employee_number": 41028209,
+    "joining_date": "2022-07-01",
+    "designation": "Senior Lecturer",
+    "department": "COMPUTER ENGINEERING (FULL TIME)",
+    "specialization": "Development Economics",
+    "employment_type": "Full-Time",
+    "experience_years": 9,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Rajesh",
+      "middle_name": "Babu",
+      "last_name": "Nair",
+      "full_name": "Rajesh Babu Nair",
+      "date_of_birth": "1985-06-18",
+      "gender": "Male",
+      "blood_group": "A+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "rajesh.nair@statecommerceinsititute.com",
+      "phone_number": "+919812353001",
+      "alternate_phone": "",
+      "address": {
+        "line": "876 Economics Block",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Sujatha Nair",
+        "relationship": "Wife",
+        "phone": "+919812353002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.A.",
+      "ug_institution": "University of Kerala",
+      "ug_year": 2006,
+      "pg_degree": "M.A.",
+      "pg_institution": "Delhi School of Economics",
+      "pg_year": 2008,
+      "phd_subject": "Rural Economic Development",
+      "phd_institution": "JNU Delhi",
+      "phd_year": 2014,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 9,
+      "industry_experience": 2,
+      "research_experience": 7,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025010.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025010.pdf",
+      "degree_certificates": [
+        "/uploads/docs/phd_cert_F2025010.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 789987456456,
+      "pan_number": "RAJES1234C",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "rajesh.nair",
+      "password_plain": "Rajesh@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2022-07-01T11:30:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 215,
+    "institution_name": "SAKTHI POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11011001,
+    "employee_number": 11011001,
+    "joining_date": "2022-07-15",
+    "designation": "Assistant Professor",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Programming in C",
+    "employment_type": "Full-Time",
+    "experience_years": 4,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Dr",
+      "middle_name": "DHARANIPATHI",
+      "last_name": "O.G",
+      "full_name": "DHARANIPATHI",
+      "date_of_birth": "1988-04-22",
+      "gender": "Male",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "og.dharani@gmail.com",
+      "phone_number": "+919812345678",
+      "alternate_phone": "+919812345679",
+      "address": {
+        "line": "45 MG Road",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600034",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ravi Nair",
+        "relationship": "Husband",
+        "phone": "+919812347890"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "Anna University",
+      "ug_year": 2008,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Madras",
+      "pg_year": 2011,
+      "phd_subject": "Deep Learning in Medical Imaging",
+      "phd_institution": "IIT Madras",
+      "phd_year": 2016,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 4,
+      "industry_experience": 0,
+      "research_experience": 4,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025001.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025001.pdf",
+      "degree_certificates": [
+        "/uploads/docs/phd_cert_F2025001.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 123456789012,
+      "pan_number": "ABCDE1234F",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "og.dharani",
+      "password_plain": "Anjali@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2022-07-15T09:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 215,
+    "institution_name": "SAKTHI POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11011002,
+    "employee_number": 11011002,
+    "joining_date": "2021-08-10",
+    "designation": "Associate Professor",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Operating Systems",
+    "employment_type": "Full-Time",
+    "experience_years": 9,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "INIGO",
+      "last_name": "B.S.",
+      "full_name": "INIGO",
+      "date_of_birth": "1984-09-12",
+      "gender": "Male",
+      "blood_group": "A+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "bsinigo@gmail.com",
+      "phone_number": "+919812345001",
+      "alternate_phone": "+919812345002",
+      "address": {
+        "line": "89 Tech Park",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600037",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Priya Sharma",
+        "relationship": "Wife",
+        "phone": "+919812345003"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "NIT Warangal",
+      "ug_year": 2006,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Bombay",
+      "pg_year": 2008,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 9,
+      "industry_experience": 0,
+      "research_experience": 9,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025002.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025002.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mtech_cert_F2025002.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 987654321098,
+      "pan_number": "FGHIJ5678K",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "bsinigo",
+      "password_plain": "Rohit@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2021-08-10T10:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 215,
+    "institution_name": "SAKTHI POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11011003,
+    "employee_number": 11011003,
+    "joining_date": "2020-01-05",
+    "designation": "Professor",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Database Management Systems",
+    "employment_type": "Full-Time",
+    "experience_years": 15,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "ADSAM GIDEON",
+      "last_name": "D.S.",
+      "full_name": "ADSAM GIDEON",
+      "date_of_birth": "1980-11-05",
+      "gender": "Male",
+      "blood_group": "B+",
+      "nationality": "Indian",
+      "marital_status": "Single",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "adsamgidonds@gmail.com",
+      "phone_number": "+919812340000",
+      "alternate_phone": "",
+      "address": {
+        "line": "150 Industrial Estate",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600038",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Amit Singh",
+        "relationship": "Brother",
+        "phone": "+919812349999"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "Anna University",
+      "ug_year": 2001,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Delhi",
+      "pg_year": 2003,
+      "phd_subject": "Digital Signal Processing in Communications",
+      "phd_institution": "IIT Delhi",
+      "phd_year": 2008,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 15,
+      "industry_experience": 0,
+      "research_experience": 15,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025003.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025003.pdf",
+      "degree_certificates": [
+        "/uploads/docs/phd_cert_F2025003.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 112233445566,
+      "pan_number": "LMNOP2345Q",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "adsamgidonds",
+      "password_plain": "Meena@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2020-01-05T08:30:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 215,
+    "institution_name": "SAKTHI POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11011004,
+    "employee_number": 11011004,
+    "joining_date": "2023-06-20",
+    "designation": "Assistant Professor",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Software Engineering Practices",
+    "employment_type": "Full-Time",
+    "experience_years": 6,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "BARATH RAJ",
+      "last_name": "S",
+      "full_name": "BARATH RAJ",
+      "date_of_birth": "1990-03-18",
+      "gender": "Male",
+      "blood_group": "AB+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "barathsbraj@gmail.com",
+      "phone_number": "+919812347001",
+      "alternate_phone": "",
+      "address": {
+        "line": "76 Main Road",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Sneha Raj",
+        "relationship": "Wife",
+        "phone": "+919812347002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "JNTU Hyderabad",
+      "ug_year": 2011,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Roorkee",
+      "pg_year": 2013,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 6,
+      "industry_experience": 0,
+      "research_experience": 6,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025004.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025004.pdf",
+      "degree_certificates": [
+        "/uploads/docs/pg_cert_F2025004.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 556677889900,
+      "pan_number": "QRSTU6789L",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "barathsbraj",
+      "password_plain": "Arjun@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2023-06-20T11:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 215,
+    "institution_name": "SAKTHI POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11011005,
+    "employee_number": 11011005,
+    "joining_date": "2021-09-01",
+    "designation": "Assistant Professor",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Web Development",
+    "employment_type": "Full-Time",
+    "experience_years": 5,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "SURYA",
+      "last_name": "S",
+      "full_name": "SURYA",
+      "date_of_birth": "1992-05-14",
+      "gender": "Male",
+      "blood_group": "O-",
+      "nationality": "Indian",
+      "marital_status": "Single",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "suryastvm98@gamil.com",
+      "phone_number": "+919812348001",
+      "alternate_phone": "",
+      "address": {
+        "line": "123 Tech Street",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Lakshmi Devi",
+        "relationship": "Mother",
+        "phone": "+919812348002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "Anna University",
+      "ug_year": 2013,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Chennai",
+      "pg_year": 2015,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 5,
+      "industry_experience": 3,
+      "research_experience": 2,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025005.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025005.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mtech_cert_F2025005.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 777888999000,
+      "pan_number": "PRIYA1234X",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "suryastvm98",
+      "password_plain": "Priya@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2021-09-01T09:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 215,
+    "institution_name": "SAKTHI POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 41011006,
+    "employee_number": 41011006,
+    "joining_date": "2022-03-15",
+    "designation": "Senior Lecturer",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Web Development",
+    "employment_type": "Full-Time",
+    "experience_years": 8,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "MOHAN KUMAR",
+      "last_name": "D",
+      "full_name": "MOHAN KUMAR",
+      "date_of_birth": "1986-12-10",
+      "gender": "Male",
+      "blood_group": "A-",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "deenamoha89@gmail.com",
+      "phone_number": "+919812349001",
+      "alternate_phone": "+919812349002",
+      "address": {
+        "line": "456 Chemical Complex",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Deepa Mohan",
+        "relationship": "Wife",
+        "phone": "+919812349003"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "Anna University",
+      "ug_year": 2007,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Bombay",
+      "pg_year": 2009,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 8,
+      "industry_experience": 3,
+      "research_experience": 5,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025006.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025006.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mtech_cert_F2025006.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 111222333444,
+      "pan_number": "KARTH1234Y",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "deenamoha89",
+      "password_plain": "Karthik@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2022-03-15T10:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 101,
+    "institution_name": "CENTRAL POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11014001,
+    "employee_number": 11014001,
+    "joining_date": "2020-08-01",
+    "designation": "Associate Professor",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Software Engineering Practices",
+    "employment_type": "Full-Time",
+    "experience_years": 12,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Tmt",
+      "middle_name": "ANITHA",
+      "last_name": "M.J",
+      "full_name": "ANITHA",
+      "date_of_birth": "1983-07-25",
+      "gender": "Female",
+      "blood_group": "B-",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "mj_anitha@gmail.com",
+      "phone_number": "+919812350001",
+      "alternate_phone": "",
+      "address": {
+        "line": "789 Leather Complex",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ramesh Krishnan",
+        "relationship": "Husband",
+        "phone": "+919812350002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.Tech",
+      "ug_institution": "CLFTI Chennai",
+      "ug_year": 2004,
+      "pg_degree": "M.Tech",
+      "pg_institution": "CLFTI Chennai",
+      "pg_year": 2006,
+      "phd_subject": "Eco-friendly Tanning Processes",
+      "phd_institution": "Anna University",
+      "phd_year": 2012,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 12,
+      "industry_experience": 4,
+      "research_experience": 8,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025007.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025007.pdf",
+      "degree_certificates": [
+        "/uploads/docs/phd_cert_F2025007.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 555666777888,
+      "pan_number": "SUNIT1234Z",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "mj_anitha",
+      "password_plain": "Sunitha@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2020-08-01T11:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 101,
+    "institution_name": "CENTRAL POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 51013003,
+    "employee_number": 51013003,
+    "joining_date": "2023-01-15",
+    "designation": "Assistant Professor",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Operating Systems",
+    "employment_type": "Full-Time",
+    "experience_years": 4,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Dr",
+      "middle_name": "KAVITHA",
+      "last_name": "K",
+      "full_name": "KAVITHA",
+      "date_of_birth": "1991-09-30",
+      "gender": "Female",
+      "blood_group": "AB-",
+      "nationality": "Indian",
+      "marital_status": "Single",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "kavitha_au04@gmail.com",
+      "phone_number": "+919812351001",
+      "alternate_phone": "",
+      "address": {
+        "line": "321 Textile Complex",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rajesh Singh",
+        "relationship": "Father",
+        "phone": "+919812351002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.Tech",
+      "ug_institution": "NIFT Delhi",
+      "ug_year": 2012,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Delhi",
+      "pg_year": 2014,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 4,
+      "industry_experience": 2,
+      "research_experience": 2,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025008.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025008.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mtech_cert_F2025008.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 999000111222,
+      "pan_number": "VIJAY1234A",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "kavitha_au04",
+      "password_plain": "Vijay@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2023-01-15T09:30:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 101,
+    "institution_name": "CENTRAL POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11014011,
+    "employee_number": 11014011,
+    "joining_date": "2021-11-01",
+    "designation": "Lecturer",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Operating Systems",
+    "employment_type": "Full-Time",
+    "experience_years": 6,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "BARATHKUMAR",
+      "last_name": "N",
+      "full_name": "BARATHKUMAR",
+      "date_of_birth": "1989-02-14",
+      "gender": "Male",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "barath1991ece@gmail.com",
+      "phone_number": "+919812352001",
+      "alternate_phone": "+919812352002",
+      "address": {
+        "line": "654 Commerce Complex",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Srinivas Reddy",
+        "relationship": "Husband",
+        "phone": "+919812352003"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.Com",
+      "ug_institution": "Osmania University",
+      "ug_year": 2010,
+      "pg_degree": "M.Com",
+      "pg_institution": "Osmania University",
+      "pg_year": 2012,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 6,
+      "industry_experience": 3,
+      "research_experience": 3,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025009.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025009.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mcom_cert_F2025009.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 123321456654,
+      "pan_number": "LAKSH1234B",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "barath1991ece",
+      "password_plain": "Lakshmi@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2021-11-01T10:30:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 101,
+    "institution_name": "CENTRAL POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11013001,
+    "employee_number": 11013001,
+    "joining_date": "2022-07-01",
+    "designation": "Senior Lecturer",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Development Economics",
+    "employment_type": "Full-Time",
+    "experience_years": 9,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Dr",
+      "middle_name": "DHINAKARAN",
+      "last_name": "P",
+      "full_name": "DHINAKARAN",
+      "date_of_birth": "1985-06-18",
+      "gender": "Male",
+      "blood_group": "A+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "dhinamit@gmail.com",
+      "phone_number": "+919812353001",
+      "alternate_phone": "",
+      "address": {
+        "line": "876 Economics Block",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Sujatha Nair",
+        "relationship": "Wife",
+        "phone": "+919812353002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.A.",
+      "ug_institution": "University of Kerala",
+      "ug_year": 2006,
+      "pg_degree": "M.A.",
+      "pg_institution": "Delhi School of Economics",
+      "pg_year": 2008,
+      "phd_subject": "Rural Economic Development",
+      "phd_institution": "JNU Delhi",
+      "phd_year": 2014,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 9,
+      "industry_experience": 2,
+      "research_experience": 7,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025010.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025010.pdf",
+      "degree_certificates": [
+        "/uploads/docs/phd_cert_F2025010.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 789987456456,
+      "pan_number": "RAJES1234C",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "dhinamit",
+      "password_plain": "Rajesh@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2022-07-01T11:30:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 101,
+    "institution_name": "CENTRAL POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11014010,
+    "employee_number": 11014010,
+    "joining_date": "2022-07-15",
+    "designation": "Assistant Professor",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Artificial Intelligence",
+    "employment_type": "Full-Time",
+    "experience_years": 4,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "JAGANNATH",
+      "last_name": "P S",
+      "full_name": "JAGANNATH",
+      "date_of_birth": "1988-04-22",
+      "gender": "Male",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "jagannath343@gmail.com",
+      "phone_number": "+919812345678",
+      "alternate_phone": "+919812345679",
+      "address": {
+        "line": "45 MG Road",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600034",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ravi Nair",
+        "relationship": "Husband",
+        "phone": "+919812347890"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "Anna University",
+      "ug_year": 2008,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Madras",
+      "pg_year": 2011,
+      "phd_subject": "Deep Learning in Medical Imaging",
+      "phd_institution": "IIT Madras",
+      "phd_year": 2016,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 4,
+      "industry_experience": 0,
+      "research_experience": 4,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025001.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025001.pdf",
+      "degree_certificates": [
+        "/uploads/docs/phd_cert_F2025001.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 123456789012,
+      "pan_number": "ABCDE1234F",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "jagannath343",
+      "password_plain": "Anjali@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2022-07-15T09:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 101,
+    "institution_name": "CENTRAL POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11014006,
+    "employee_number": 11014006,
+    "joining_date": "2021-08-10",
+    "designation": "Associate Professor",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Manufacturing Technology",
+    "employment_type": "Full-Time",
+    "experience_years": 9,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "NIRMAL RAJ",
+      "last_name": "T",
+      "full_name": "NIRMAL RAJ",
+      "date_of_birth": "1984-09-12",
+      "gender": "Male",
+      "blood_group": "A+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "nirmalraj.jt@gmail.com",
+      "phone_number": "+919812345001",
+      "alternate_phone": "+919812345002",
+      "address": {
+        "line": "89 Tech Park",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600037",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Priya Sharma",
+        "relationship": "Wife",
+        "phone": "+919812345003"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "NIT Warangal",
+      "ug_year": 2006,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Bombay",
+      "pg_year": 2008,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 9,
+      "industry_experience": 0,
+      "research_experience": 9,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025002.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025002.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mtech_cert_F2025002.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 987654321098,
+      "pan_number": "FGHIJ5678K",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "nirmalraj.jt",
+      "password_plain": "Rohit@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2021-08-10T10:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 101,
+    "institution_name": "CENTRAL POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11014005,
+    "employee_number": 11014005,
+    "joining_date": "2020-01-05",
+    "designation": "Professor",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Signal Processing",
+    "employment_type": "Full-Time",
+    "experience_years": 15,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Dr",
+      "middle_name": "SENTHIL KUMAR",
+      "last_name": "K",
+      "full_name": "SENTHIL KUMAR",
+      "date_of_birth": "1980-11-05",
+      "gender": "Male",
+      "blood_group": "B+",
+      "nationality": "Indian",
+      "marital_status": "Single",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "ksenthilkumar.ece.phd@gmail.com",
+      "phone_number": "+919812340000",
+      "alternate_phone": "",
+      "address": {
+        "line": "150 Industrial Estate",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600038",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Amit Singh",
+        "relationship": "Brother",
+        "phone": "+919812349999"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "Anna University",
+      "ug_year": 2001,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Delhi",
+      "pg_year": 2003,
+      "phd_subject": "Digital Signal Processing in Communications",
+      "phd_institution": "IIT Delhi",
+      "phd_year": 2008,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 15,
+      "industry_experience": 0,
+      "research_experience": 15,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025003.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025003.pdf",
+      "degree_certificates": [
+        "/uploads/docs/phd_cert_F2025003.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 112233445566,
+      "pan_number": "LMNOP2345Q",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "ksenthilkumar",
+      "password_plain": "Meena@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2020-01-05T08:30:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 101,
+    "institution_name": "CENTRAL POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11014009,
+    "employee_number": 11014009,
+    "joining_date": "2023-06-20",
+    "designation": "Assistant Professor",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Structural Engineering",
+    "employment_type": "Full-Time",
+    "experience_years": 6,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "SAKTHIVEL",
+      "last_name": "U",
+      "full_name": "SAKTHIVEL",
+      "date_of_birth": "1990-03-18",
+      "gender": "Male",
+      "blood_group": "AB+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "vusakthi@gmail.com",
+      "phone_number": "+919812347001",
+      "alternate_phone": "",
+      "address": {
+        "line": "76 Main Road",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600001",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Sneha Raj",
+        "relationship": "Wife",
+        "phone": "+919812347002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "JNTU Hyderabad",
+      "ug_year": 2011,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Roorkee",
+      "pg_year": 2013,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 6,
+      "industry_experience": 0,
+      "research_experience": 6,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025004.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025004.pdf",
+      "degree_certificates": [
+        "/uploads/docs/pg_cert_F2025004.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 556677889900,
+      "pan_number": "QRSTU6789L",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "vusakthi",
+      "password_plain": "Arjun@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2023-06-20T11:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 132,
+    "institution_name": "KONGU POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11014003,
+    "employee_number": 11014003,
+    "joining_date": "2021-09-01",
+    "designation": "Assistant Professor",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Web Development",
+    "employment_type": "Full-Time",
+    "experience_years": 5,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Dr",
+      "middle_name": "EZHILARASI",
+      "last_name": "S",
+      "full_name": "EZHILARASI",
+      "date_of_birth": "1992-05-14",
+      "gender": "Female",
+      "blood_group": "O-",
+      "nationality": "Indian",
+      "marital_status": "Single",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "ezhilvish@gmail.com",
+      "phone_number": "+919812348001",
+      "alternate_phone": "",
+      "address": {
+        "line": "123 Tech Street",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Lakshmi Devi",
+        "relationship": "Mother",
+        "phone": "+919812348002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "Anna University",
+      "ug_year": 2013,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Chennai",
+      "pg_year": 2015,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 5,
+      "industry_experience": 3,
+      "research_experience": 2,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025005.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025005.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mtech_cert_F2025005.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 777888999000,
+      "pan_number": "PRIYA1234X",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "ezhilvish",
+      "password_plain": "Priya@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2021-09-01T09:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 132,
+    "institution_name": "KONGU POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11014007,
+    "employee_number": 11014007,
+    "joining_date": "2022-03-15",
+    "designation": "Senior Lecturer",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Process Engineering",
+    "employment_type": "Full-Time",
+    "experience_years": 8,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "NASEER MOHAMED",
+      "last_name": "S",
+      "full_name": "NASEER MOHAMED",
+      "date_of_birth": "1986-12-10",
+      "gender": "Male",
+      "blood_group": "A-",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "snaseermohamed@gmail.com",
+      "phone_number": "+919812349001",
+      "alternate_phone": "+919812349002",
+      "address": {
+        "line": "456 Chemical Complex",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Deepa Mohan",
+        "relationship": "Wife",
+        "phone": "+919812349003"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.E.",
+      "ug_institution": "Anna University",
+      "ug_year": 2007,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Bombay",
+      "pg_year": 2009,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 8,
+      "industry_experience": 3,
+      "research_experience": 5,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025006.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025006.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mtech_cert_F2025006.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 111222333444,
+      "pan_number": "KARTH1234Y",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "snaseermohamed",
+      "password_plain": "Karthik@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2022-03-15T10:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 132,
+    "institution_name": "KONGU POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11014008,
+    "employee_number": 11014008,
+    "joining_date": "2020-08-01",
+    "designation": "Associate Professor",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Tanning Chemistry",
+    "employment_type": "Full-Time",
+    "experience_years": 12,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "MUTHUKRISHNAN",
+      "last_name": "G",
+      "full_name": "MUTHUKRISHNAN",
+      "date_of_birth": "1983-07-25",
+      "gender": "Male",
+      "blood_group": "B-",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "gmuthukrrishnan@gmail.com",
+      "phone_number": "+919812350001",
+      "alternate_phone": "",
+      "address": {
+        "line": "789 Leather Complex",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Ramesh Krishnan",
+        "relationship": "Husband",
+        "phone": "+919812350002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.Tech",
+      "ug_institution": "CLFTI Chennai",
+      "ug_year": 2004,
+      "pg_degree": "M.Tech",
+      "pg_institution": "CLFTI Chennai",
+      "pg_year": 2006,
+      "phd_subject": "Eco-friendly Tanning Processes",
+      "phd_institution": "Anna University",
+      "phd_year": 2012,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 12,
+      "industry_experience": 4,
+      "research_experience": 8,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025007.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025007.pdf",
+      "degree_certificates": [
+        "/uploads/docs/phd_cert_F2025007.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 555666777888,
+      "pan_number": "SUNIT1234Z",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "gmuthukrrishnan",
+      "password_plain": "Sunitha@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2020-08-01T11:00:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 132,
+    "institution_name": "KONGU POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11014004,
+    "employee_number": 11014004,
+    "joining_date": "2023-01-15",
+    "designation": "Assistant Professor",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Fabric Technology",
+    "employment_type": "Full-Time",
+    "experience_years": 4,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "SHAIK MAJEETH",
+      "last_name": "S",
+      "full_name": "SHAIK MAJEETH",
+      "date_of_birth": "1991-09-30",
+      "gender": "Male",
+      "blood_group": "AB-",
+      "nationality": "Indian",
+      "marital_status": "Single",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "majeeeth@gmail.com",
+      "phone_number": "+919812351001",
+      "alternate_phone": "",
+      "address": {
+        "line": "321 Textile Complex",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Rajesh Singh",
+        "relationship": "Father",
+        "phone": "+919812351002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.Tech",
+      "ug_institution": "NIFT Delhi",
+      "ug_year": 2012,
+      "pg_degree": "M.Tech",
+      "pg_institution": "IIT Delhi",
+      "pg_year": 2014,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 4,
+      "industry_experience": 2,
+      "research_experience": 2,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025008.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025008.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mtech_cert_F2025008.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 999000111222,
+      "pan_number": "VIJAY1234A",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "majeeeth",
+      "password_plain": "Vijay@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2023-01-15T09:30:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 132,
+    "institution_name": "KONGU POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11015201,
+    "employee_number": 11015201,
+    "joining_date": "2021-11-01",
+    "designation": "Lecturer",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "International Trade",
+    "employment_type": "Full-Time",
+    "experience_years": 6,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Thiru",
+      "middle_name": "VENGADAVARADAN",
+      "last_name": "V M",
+      "full_name": "VENGADAVARADAN",
+      "date_of_birth": "1989-02-14",
+      "gender": "Male",
+      "blood_group": "O+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "idofvv@gmail.com",
+      "phone_number": "+919812352001",
+      "alternate_phone": "+919812352002",
+      "address": {
+        "line": "654 Commerce Complex",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Srinivas Reddy",
+        "relationship": "Husband",
+        "phone": "+919812352003"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.Com",
+      "ug_institution": "Osmania University",
+      "ug_year": 2010,
+      "pg_degree": "M.Com",
+      "pg_institution": "Osmania University",
+      "pg_year": 2012,
+      "phd_subject": "",
+      "phd_institution": "",
+      "phd_year": 0,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 6,
+      "industry_experience": 3,
+      "research_experience": 3,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025009.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025009.pdf",
+      "degree_certificates": [
+        "/uploads/docs/mcom_cert_F2025009.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 123321456654,
+      "pan_number": "LAKSH1234B",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "idofvv",
+      "password_plain": "Lakshmi@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2021-11-01T10:30:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 132,
+    "institution_name": "KONGU POLYTECHNIC COLLEGE"
+  },
+  {
+    "faculty_id": 11014002,
+    "employee_number": 11014002,
+    "joining_date": "2022-07-01",
+    "designation": "Senior Lecturer",
+    "department": "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME) ",
+    "specialization": "Development Economics",
+    "employment_type": "Full-Time",
+    "experience_years": 9,
+    "employment_status": "Active",
+    "personal_info": {
+      "first_name": "Dr",
+      "middle_name": "VIJI",
+      "last_name": "A",
+      "full_name": "VIJI",
+      "date_of_birth": "1985-06-18",
+      "gender": "Female",
+      "blood_group": "A+",
+      "nationality": "Indian",
+      "marital_status": "Married",
+      "religion": "",
+      "category": ""
+    },
+    "contact_info": {
+      "email": "mailvijis@gmail.com",
+      "phone_number": "+919812353001",
+      "alternate_phone": "",
+      "address": {
+        "line": "876 Economics Block",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600113",
+        "country": "India"
+      },
+      "emergency_contact": {
+        "name": "Sujatha Nair",
+        "relationship": "Wife",
+        "phone": "+919812353002"
+      }
+    },
+    "qualification_info": {
+      "ug_degree": "B.A.",
+      "ug_institution": "University of Kerala",
+      "ug_year": 2006,
+      "pg_degree": "M.A.",
+      "pg_institution": "Delhi School of Economics",
+      "pg_year": 2008,
+      "phd_subject": "Rural Economic Development",
+      "phd_institution": "JNU Delhi",
+      "phd_year": 2014,
+      "certifications": []
+    },
+    "experience_info": {
+      "total_experience": 9,
+      "industry_experience": 2,
+      "research_experience": 7,
+      "previous_institutions": [],
+      "publications_count": 0,
+      "projects_handled": 0
+    },
+    "documents": {
+      "profile_photo": "/uploads/photos/F2025010.jpg",
+      "resume_cv": "/uploads/docs/resume_F2025010.pdf",
+      "degree_certificates": [
+        "/uploads/docs/phd_cert_F2025010.pdf"
+      ],
+      "experience_letters": [],
+      "research_papers": []
+    },
+    "financial_info": {
+      "salary": 0,
+      "bank_account": 789987456456,
+      "pan_number": "RAJES1234C",
+      "provident_fund": ""
+    },
+    "professional_info": {
+      "subjects_teaching": [],
+      "current_courses": [],
+      "research_areas": [],
+      "conference_attended": 0,
+      "awards_received": []
+    },
+    "login_credentials": {
+      "username": "mailvijis",
+      "password_plain": "Rajesh@123",
+      "last_login": "",
+      "account_status": "active"
+    },
+    "metadata": {
+      "created_at": "2022-07-01T11:30:00Z",
+      "created_by": "hr_admin",
+      "updated_at": "2025-08-13T14:30:00Z",
+      "updated_by": "admin"
+    },
+    "institution_code": 132,
+    "institution_name": "KONGU POLYTECHNIC COLLEGE"
+  }
+]
