@@ -51,15 +51,7 @@ interface Subject {
   id: string;
   code: string;
   name: string;
-  type:
-    | "Theory"
-    | "Practical"
-    | "Lab"
-    | "Project"
-    | "Practicum"
-    | "Advanced Skill Certification"
-    | "Integrated Learning Experience"
-    | "Internship";
+  type: "Theory" | "Practical" | "Lab" | "Project" | "Practicum" | "Advanced Skill Certification" | "Integrated Learning Experience" | "Internship";
   credits: number;
   lectureHours: number;
   tutorialHours: number;
@@ -96,73 +88,14 @@ export default function ProgramSemesterPage() {
   const [program, setProgram] = useState<Program | null>(null);
   const [subjects, setSubjects] = useState<Subject[]>([]);
   const [loading, setLoading] = useState(true);
-  const [selectedSemester, setSelectedSemester] = useState<number | null>(
-    null
-  );
+  const [selectedSemester, setSelectedSemester] = useState<number | null>(null);
 
   useEffect(() => {
     const loadProgramData = async () => {
       try {
-        // Load program data with proper base URL (relative path) and safe fallback
-        const baseUrl =
-          typeof import.meta !== "undefined" && import.meta.env
-            ? import.meta.env.BASE_URL || "/"
-            : "/";
-        const programUrl = `${baseUrl}program.json`;
-        let programData: Program[] = [];
-        try {
-          const res = await fetch(programUrl, {
-            headers: { "Cache-Control": "no-cache" },
-          });
-          if (!res.ok) throw new Error(`HTTP ${res.status}`);
-          programData = await res.json();
-        } catch (e1) {
-          try {
-            const resRoot = await fetch("/program.json", {
-              headers: { "Cache-Control": "no-cache" },
-            });
-            if (!resRoot.ok) throw new Error(`HTTP ${resRoot.status}`);
-            programData = await resRoot.json();
-          } catch (e2) {
-            console.warn(
-              "Failed to fetch program.json, using fallback data",
-              e1,
-              e2
-            );
-            programData = [
-              {
-                id: "C025",
-                name: "ELECTRONICS AND COMMUNICATION ENGINEERING (FULL TIME)",
-                code: "1040",
-                level: "UG",
-                type: "Full-time",
-                department: "Electronics Engineering",
-                duration: 4,
-                totalCredits: 120,
-                totalStudents: 1000,
-                description:
-                  "Electronics and communication engineering with digital systems focus.",
-                status: "active",
-                specializations: [],
-              },
-              {
-                id: "C037",
-                name: "COMPUTER ENGINEERING (FULL TIME)",
-                code: "1052",
-                level: "UG",
-                type: "Full-time",
-                department: "Computer Science",
-                duration: 4,
-                totalCredits: 120,
-                totalStudents: 900,
-                description:
-                  "Computer engineering with embedded systems and hardware focus.",
-                status: "active",
-                specializations: [],
-              },
-            ];
-          }
-        }
+        // Load program data
+        const programResponse = await fetch("/program.json");
+        const programData = await programResponse.json();
         const foundProgram = programData.find(
           (p: Program) => p.id === programId
         );
@@ -513,7 +446,7 @@ export default function ProgramSemesterPage() {
                 references: [],
               },
 
-              // Semester 4 courses (ECE)
+              // Semester 4 courses
               {
                 id: "SUB401",
                 code: "1040234110",
@@ -531,23 +464,22 @@ export default function ProgramSemesterPage() {
                 category: "Program Core",
                 marks: 100,
                 status: "active",
-                description:
-                  "Covers architecture, programming, and applications of microcontrollers.",
+                description: "Covers architecture, programming, and applications of microcontrollers.",
                 syllabus: [
                   "Module 1: Microcontroller Architecture",
                   "Module 2: Assembly Language Programming",
                   "Module 3: Interfacing Techniques",
                   "Module 4: Embedded Applications",
-                  "Module 5: Case Studies",
+                  "Module 5: Case Studies"
                 ],
                 textbooks: [
                   "The 8051 Microcontroller - Mazidi",
-                  "Embedded Systems - Raj Kamal",
+                  "Embedded Systems - Raj Kamal"
                 ],
                 references: [
                   "IEEE Transactions on Embedded Systems",
-                  "Microcontroller Application Notes",
-                ],
+                  "Microcontroller Application Notes"
+                ]
               },
               {
                 id: "SUB402",
@@ -566,23 +498,22 @@ export default function ProgramSemesterPage() {
                 category: "Program Core",
                 marks: 100,
                 status: "active",
-                description:
-                  "Introduces principles of data communication, networking protocols, and technologies.",
+                description: "Introduces principles of data communication, networking protocols, and technologies.",
                 syllabus: [
                   "Module 1: Introduction to Data Communication",
                   "Module 2: Network Models",
                   "Module 3: Transmission Media",
                   "Module 4: Switching and Routing",
-                  "Module 5: Network Security",
+                  "Module 5: Network Security"
                 ],
                 textbooks: [
                   "Data Communications and Networking - Behrouz A. Forouzan",
-                  "Computer Networking - Andrew S. Tanenbaum",
+                  "Computer Networking - Andrew S. Tanenbaum"
                 ],
                 references: [
                   "IEEE Communications Magazine",
-                  "Network Protocol Standards",
-                ],
+                  "Network Protocol Standards"
+                ]
               },
               {
                 id: "SUB403",
@@ -601,23 +532,22 @@ export default function ProgramSemesterPage() {
                 category: "Program Core",
                 marks: 100,
                 status: "active",
-                description:
-                  "Provides practical knowledge of communication systems and signal transmission.",
+                description: "Provides practical knowledge of communication systems and signal transmission.",
                 syllabus: [
                   "Module 1: Analog Communication Basics",
                   "Module 2: Modulation Techniques",
                   "Module 3: Demodulation Methods",
                   "Module 4: Signal Transmission",
-                  "Module 5: Case Studies",
+                  "Module 5: Case Studies"
                 ],
                 textbooks: [
                   "Communication Systems - Simon Haykin",
-                  "Principles of Communication Engineering - Taub & Schilling",
+                  "Principles of Communication Engineering - Taub & Schilling"
                 ],
                 references: [
                   "IEEE Transactions on Communication",
-                  "Modern Communication Systems Handbooks",
-                ],
+                  "Modern Communication Systems Handbooks"
+                ]
               },
               {
                 id: "SUB404",
@@ -636,23 +566,22 @@ export default function ProgramSemesterPage() {
                 category: "Program Core",
                 marks: 100,
                 status: "active",
-                description:
-                  "Covers fundamentals and applications of measurement systems and sensors.",
+                description: "Covers fundamentals and applications of measurement systems and sensors.",
                 syllabus: [
                   "Module 1: Measurement Basics",
                   "Module 2: Sensors and Transducers",
                   "Module 3: Signal Conditioning",
                   "Module 4: Digital Instruments",
-                  "Module 5: Case Studies",
+                  "Module 5: Case Studies"
                 ],
                 textbooks: [
                   "A Course in Electrical and Electronic Measurements - A.K. Sawhney",
-                  "Sensor Technology Handbook",
+                  "Sensor Technology Handbook"
                 ],
                 references: [
                   "IEEE Transactions on Instrumentation",
-                  "Measurement Standards and Guidelines",
-                ],
+                  "Measurement Standards and Guidelines"
+                ]
               },
               {
                 id: "SUB405",
@@ -671,23 +600,22 @@ export default function ProgramSemesterPage() {
                 category: "Engineering Science",
                 marks: 100,
                 status: "active",
-                description:
-                  "Introduces structured programming in C with practical exposure.",
+                description: "Introduces structured programming in C with practical exposure.",
                 syllabus: [
                   "Module 1: Basics of C Language",
                   "Module 2: Control Structures",
                   "Module 3: Functions and Arrays",
                   "Module 4: Pointers and Structures",
-                  "Module 5: File Handling",
+                  "Module 5: File Handling"
                 ],
                 textbooks: [
                   "Programming in ANSI C - E. Balagurusamy",
-                  "The C Programming Language - Kernighan & Ritchie",
+                  "The C Programming Language - Kernighan & Ritchie"
                 ],
                 references: [
                   "ACM Digital Library C Programming Papers",
-                  "C Programming Practice Guides",
-                ],
+                  "C Programming Practice Guides"
+                ]
               },
               {
                 id: "SUB406",
@@ -706,19 +634,20 @@ export default function ProgramSemesterPage() {
                 category: "Program Core",
                 marks: 100,
                 status: "active",
-                description:
-                  "Hands-on project-based training with microcontroller programming and applications.",
+                description: "Hands-on project-based training with microcontroller programming and applications.",
                 syllabus: [
                   "Module 1: Microcontroller Programming",
                   "Module 2: Interfacing Experiments",
                   "Module 3: Embedded Applications",
-                  "Module 4: Project Development",
+                  "Module 4: Project Development"
                 ],
-                textbooks: ["Embedded C Programming - Michael J. Pont"],
+                textbooks: [
+                  "Embedded C Programming - Michael J. Pont"
+                ],
                 references: [
                   "IEEE Transactions on Embedded Systems",
-                  "Microcontroller Lab Manuals",
-                ],
+                  "Microcontroller Lab Manuals"
+                ]
               },
               {
                 id: "SUB407",
@@ -737,17 +666,20 @@ export default function ProgramSemesterPage() {
                 category: "Open Elective",
                 marks: 100,
                 status: "active",
-                description:
-                  "Certification-based elective course focusing on advanced emerging skills.",
+                description: "Certification-based elective course focusing on advanced emerging skills.",
                 syllabus: [
                   "Module 1: Advanced Skill Concepts",
                   "Module 2: Industry Tools",
                   "Module 3: Practical Implementation",
                   "Module 4: Case Studies",
-                  "Module 5: Certification Assessment",
+                  "Module 5: Certification Assessment"
                 ],
-                textbooks: ["Skill Development Module"],
-                references: ["Industry Training Guides"],
+                textbooks: [
+                  "Skill Development Module"
+                ],
+                references: [
+                  "Industry Training Guides"
+                ]
               },
               {
                 id: "SUB409",
@@ -766,15 +698,14 @@ export default function ProgramSemesterPage() {
                 category: "Audit Course",
                 marks: 0,
                 status: "active",
-                description:
-                  "Engagement in innovation, entrepreneurship, clubs, or community-driven initiatives.",
+                description: "Engagement in innovation, entrepreneurship, clubs, or community-driven initiatives.",
                 syllabus: [
                   "Module 1: Community Work",
                   "Module 2: Club Activities",
-                  "Module 3: Innovation Activities",
+                  "Module 3: Innovation Activities"
                 ],
                 textbooks: [],
-                references: [],
+                references: []
               },
               {
                 id: "SUB410",
@@ -793,15 +724,14 @@ export default function ProgramSemesterPage() {
                 category: "Audit Course",
                 marks: 0,
                 status: "active",
-                description:
-                  "Special interest or placement-oriented training sessions.",
+                description: "Special interest or placement-oriented training sessions.",
                 syllabus: [
                   "Module 1: Placement Preparation",
                   "Module 2: Technical Training",
-                  "Module 3: Mock Tests",
+                  "Module 3: Mock Tests"
                 ],
                 textbooks: [],
-                references: [],
+                references: []
               },
               {
                 id: "SUB411",
@@ -820,14 +750,13 @@ export default function ProgramSemesterPage() {
                 category: "Audit Course",
                 marks: 0,
                 status: "active",
-                description:
-                  "Seminar series exploring new and emerging technologies.",
+                description: "Seminar series exploring new and emerging technologies.",
                 syllabus: [
                   "Module 1: Research Seminars",
-                  "Module 2: Industry Lectures",
+                  "Module 2: Industry Lectures"
                 ],
                 textbooks: [],
-                references: [],
+                references: []
               },
               {
                 id: "SUB412",
@@ -846,15 +775,14 @@ export default function ProgramSemesterPage() {
                 category: "Audit Course",
                 marks: 0,
                 status: "active",
-                description:
-                  "Industrial immersion program offering practical shop floor exposure.",
+                description: "Industrial immersion program offering practical shop floor exposure.",
                 syllabus: [
                   "Module 1: Industry Visits",
                   "Module 2: Safety Training",
-                  "Module 3: Process Understanding",
+                  "Module 3: Process Understanding"
                 ],
                 textbooks: [],
-                references: [],
+                references: []
               },
               {
                 id: "SUB413",
@@ -873,15 +801,14 @@ export default function ProgramSemesterPage() {
                 category: "Audit Course",
                 marks: 0,
                 status: "active",
-                description:
-                  "Wellness course for physical fitness, yoga, and mindfulness practices.",
+                description: "Wellness course for physical fitness, yoga, and mindfulness practices.",
                 syllabus: [
                   "Module 1: Physical Exercises",
                   "Module 2: Yoga and Meditation",
-                  "Module 3: Wellness Awareness",
+                  "Module 3: Wellness Awareness"
                 ],
                 textbooks: [],
-                references: [],
+                references: []
               },
               {
                 id: "SUB414",
@@ -900,17 +827,16 @@ export default function ProgramSemesterPage() {
                 category: "Audit Course",
                 marks: 0,
                 status: "active",
-                description:
-                  "Student-driven initiatives and projects focusing on leadership and innovation.",
+                description: "Student-driven initiatives and projects focusing on leadership and innovation.",
                 syllabus: [
                   "Module 1: Idea Generation",
                   "Module 2: Team Collaboration",
                   "Module 3: Project Execution",
-                  "Module 4: Presentation",
+                  "Module 4: Presentation"
                 ],
                 textbooks: [],
-                references: [],
-              },
+                references: []
+              }
             ];
 
             // Semester 5 courses - Real data
@@ -932,23 +858,16 @@ export default function ProgramSemesterPage() {
                 category: "Program Core",
                 marks: 100,
                 status: "active",
-                description:
-                  "Covers the fundamentals of advanced communication techniques and practical implementations.",
+                description: "Covers the fundamentals of advanced communication techniques and practical implementations.",
                 syllabus: [
                   "Module 1: Communication Theory",
                   "Module 2: Digital Modulation",
                   "Module 3: Multiplexing Techniques",
                   "Module 4: Error Control Coding",
-                  "Module 5: Case Studies",
+                  "Module 5: Case Studies"
                 ],
-                textbooks: [
-                  "Digital and Analog Communication Systems - Leon W. Couch",
-                  "Communication Systems - Simon Haykin",
-                ],
-                references: [
-                  "IEEE Transactions on Communications",
-                  "International Journal of Communication Systems",
-                ],
+                textbooks: ["Digital and Analog Communication Systems - Leon W. Couch", "Communication Systems - Simon Haykin"],
+                references: ["IEEE Transactions on Communications", "International Journal of Communication Systems"]
               },
               {
                 id: "SUB502",
@@ -967,23 +886,16 @@ export default function ProgramSemesterPage() {
                 category: "Program Core",
                 marks: 100,
                 status: "active",
-                description:
-                  "Introduction to mobile communication systems, cellular technologies and applications.",
+                description: "Introduction to mobile communication systems, cellular technologies and applications.",
                 syllabus: [
                   "Module 1: Cellular Concepts",
                   "Module 2: GSM and CDMA Systems",
                   "Module 3: LTE and 5G Networks",
                   "Module 4: Mobile Data Services",
-                  "Module 5: Case Studies",
+                  "Module 5: Case Studies"
                 ],
-                textbooks: [
-                  "Mobile Communications - Jochen Schiller",
-                  "Wireless Communications - Theodore Rappaport",
-                ],
-                references: [
-                  "IEEE Transactions on Mobile Computing",
-                  "Wireless Personal Communications Journal",
-                ],
+                textbooks: ["Mobile Communications - Jochen Schiller", "Wireless Communications - Theodore Rappaport"],
+                references: ["IEEE Transactions on Mobile Computing", "Wireless Personal Communications Journal"]
               },
               {
                 id: "SUB503",
@@ -1002,11 +914,10 @@ export default function ProgramSemesterPage() {
                 category: "Program Elective",
                 marks: 100,
                 status: "active",
-                description:
-                  "Elective subject chosen by the student in consultation with department.",
+                description: "Elective subject chosen by the student in consultation with department.",
                 syllabus: ["Defined by department based on elective chosen"],
                 textbooks: ["As per elective selection"],
-                references: ["As per elective selection"],
+                references: ["As per elective selection"]
               },
               {
                 id: "SUB504",
@@ -1025,23 +936,16 @@ export default function ProgramSemesterPage() {
                 category: "Program Core",
                 marks: 100,
                 status: "active",
-                description:
-                  "Introduction to embedded system design and real-time applications.",
+                description: "Introduction to embedded system design and real-time applications.",
                 syllabus: [
                   "Module 1: Embedded System Basics",
                   "Module 2: Microcontrollers",
                   "Module 3: Real-Time Operating Systems",
                   "Module 4: Interfaces and Peripherals",
-                  "Module 5: Case Studies",
+                  "Module 5: Case Studies"
                 ],
-                textbooks: [
-                  "Embedded Systems - Raj Kamal",
-                  "Introduction to Embedded Systems - Shibu K V",
-                ],
-                references: [
-                  "IEEE Embedded Systems Letters",
-                  "Microprocessors and Microsystems Journal",
-                ],
+                textbooks: ["Embedded Systems - Raj Kamal", "Introduction to Embedded Systems - Shibu K V"],
+                references: ["IEEE Embedded Systems Letters", "Microprocessors and Microsystems Journal"]
               },
               {
                 id: "SUB505",
@@ -1060,11 +964,10 @@ export default function ProgramSemesterPage() {
                 category: "Program Elective",
                 marks: 100,
                 status: "active",
-                description:
-                  "Practical elective subject chosen by the student.",
+                description: "Practical elective subject chosen by the student.",
                 syllabus: ["Defined by department based on elective chosen"],
                 textbooks: ["As per elective selection"],
-                references: ["As per elective selection"],
+                references: ["As per elective selection"]
               },
               {
                 id: "SUB506",
@@ -1083,11 +986,10 @@ export default function ProgramSemesterPage() {
                 category: "Open Elective",
                 marks: 0,
                 status: "active",
-                description:
-                  "Skill-oriented elective certification to enhance employability.",
+                description: "Skill-oriented elective certification to enhance employability.",
                 syllabus: ["Defined by certifying authority"],
                 textbooks: ["As provided by certification partner"],
-                references: ["Industry manuals", "Skill training resources"],
+                references: ["Industry manuals", "Skill training resources"]
               },
               {
                 id: "SUB507",
@@ -1106,19 +1008,15 @@ export default function ProgramSemesterPage() {
                 category: "Humanities & Social Science",
                 marks: 100,
                 status: "active",
-                description:
-                  "Course designed to promote entrepreneurship, innovation and startup culture.",
+                description: "Course designed to promote entrepreneurship, innovation and startup culture.",
                 syllabus: [
                   "Module 1: Innovation Principles",
                   "Module 2: Startup Models",
                   "Module 3: Business Plan Development",
-                  "Module 4: Case Studies",
+                  "Module 4: Case Studies"
                 ],
                 textbooks: ["Entrepreneurship Development - S.S. Khanka"],
-                references: [
-                  "Harvard Business Review on Innovation",
-                  "Journal of Entrepreneurship",
-                ],
+                references: ["Harvard Business Review on Innovation", "Journal of Entrepreneurship"]
               },
               {
                 id: "SUB508",
@@ -1137,11 +1035,10 @@ export default function ProgramSemesterPage() {
                 category: "Project/Internship",
                 marks: 100,
                 status: "active",
-                description:
-                  "Hands-on industrial training for real-world exposure.",
+                description: "Hands-on industrial training for real-world exposure.",
                 syllabus: ["Training modules as per industry placement"],
                 textbooks: ["Provided by industry partner"],
-                references: ["Industry standards and manuals"],
+                references: ["Industry standards and manuals"]
               },
               {
                 id: "SUB509",
@@ -1163,7 +1060,7 @@ export default function ProgramSemesterPage() {
                 description: "Audit course for student induction.",
                 syllabus: ["As defined by institute"],
                 textbooks: ["As assigned by faculty"],
-                references: ["NA"],
+                references: ["NA"]
               },
               {
                 id: "SUB510",
@@ -1182,11 +1079,10 @@ export default function ProgramSemesterPage() {
                 category: "Audit Course",
                 marks: 0,
                 status: "active",
-                description:
-                  "Placement training and special interest activities.",
+                description: "Placement training and special interest activities.",
                 syllabus: ["Training as per placement cell"],
                 textbooks: ["NA"],
-                references: ["NA"],
+                references: ["NA"]
               },
               {
                 id: "SUB511",
@@ -1205,11 +1101,10 @@ export default function ProgramSemesterPage() {
                 category: "Audit Course",
                 marks: 0,
                 status: "active",
-                description:
-                  "Audit course promoting health awareness and fitness.",
+                description: "Audit course promoting health awareness and fitness.",
                 syllabus: ["Defined by institute"],
                 textbooks: ["NA"],
-                references: ["NA"],
+                references: ["NA"]
               },
               {
                 id: "SUB512",
@@ -1228,16 +1123,15 @@ export default function ProgramSemesterPage() {
                 category: "Audit Course",
                 marks: 0,
                 status: "active",
-                description:
-                  "Student initiative activity to build leadership skills.",
+                description: "Student initiative activity to build leadership skills.",
                 syllabus: ["Planned and executed by students"],
                 textbooks: ["NA"],
-                references: ["NA"],
-              },
+                references: ["NA"]
+              }
             ];
 
             // Semester 6 courses - Real data
-            const semester6Subjects: any[] = [
+            const semester6Subjects: Subject[] = [
               {
                 CourseCategory: "Open Elective",
                 CourseType: "Theory",
@@ -1246,7 +1140,7 @@ export default function ProgramSemesterPage() {
                 LTP: "3-0-0",
                 Period: 45,
                 Credit: 3,
-                EndExam: "Theory",
+                EndExam: "Theory"
               },
               {
                 CourseCategory: "Open Elective",
@@ -1256,7 +1150,7 @@ export default function ProgramSemesterPage() {
                 LTP: "1-0-4",
                 Period: 75,
                 Credit: 3,
-                EndExam: "Practical",
+                EndExam: "Practical"
               },
               {
                 CourseCategory: "Project / Internship",
@@ -1266,7 +1160,7 @@ export default function ProgramSemesterPage() {
                 LTP: "-",
                 Period: 540,
                 Credit: 12,
-                EndExam: "Project",
+                EndExam: "Project"
               },
               {
                 CourseCategory: "Project / Internship",
@@ -1276,7 +1170,7 @@ export default function ProgramSemesterPage() {
                 LTP: "-",
                 Period: 540,
                 Credit: 12,
-                EndExam: "Project",
+                EndExam: "Project"
               },
               {
                 CourseCategory: "Project / Internship",
@@ -1286,7 +1180,7 @@ export default function ProgramSemesterPage() {
                 LTP: "-",
                 Period: 540,
                 Credit: 12,
-                EndExam: "Project",
+                EndExam: "Project"
               },
               {
                 CourseCategory: "Project / Internship",
@@ -1296,1056 +1190,14 @@ export default function ProgramSemesterPage() {
                 LTP: "-",
                 Period: 540,
                 Credit: 12,
-                EndExam: "Project",
-              },
+                EndExam: "Project"
+              }
             ];
 
-            eceAllSubjects.push(...(semester6Subjects as any));
+            eceAllSubjects.push(...semester6Subjects);
 
             setSubjects(eceAllSubjects);
             setSelectedSemester(null); // Show all semesters for ECE
-          } else if (
-            (foundProgram.name || "").toLowerCase().includes("computer") &&
-            (foundProgram.name || "").toLowerCase().includes("engineering") &&
-            ((foundProgram.name || "").toLowerCase().includes("full time") ||
-              (foundProgram.type || "").toLowerCase().includes("full"))
-          ) {
-            // Computer Engineering (Full Time) - Use provided Semester 3 and 4 data and hide Sem 1 & 2
-            const ceSubjects: Subject[] = [
-              {
-                id: "SUB301",
-                code: "1052233110",
-                name: "Digital Logic Design",
-                type: "Theory",
-                credits: 3,
-                lectureHours: 3,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 3,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: ["CO311", "CO312", "CO313"],
-                category: "Program Core",
-                marks: 100,
-                status: "active",
-                description:
-                  "Covers fundamentals of logic gates, combinational and sequential circuits, and digital system design.",
-                syllabus: [
-                  "Module 1: Number Systems and Logic Gates",
-                  "Module 2: Boolean Algebra and Simplification",
-                  "Module 3: Combinational Circuits",
-                  "Module 4: Sequential Circuits",
-                  "Module 5: Digital Applications",
-                ],
-                textbooks: ["Digital Design - M. Morris Mano"],
-                references: ["IEEE Transactions on Computers"],
-              },
-              {
-                id: "SUB302",
-                code: "1052233220",
-                name: "RDBMS",
-                type: "Practicum",
-                credits: 4,
-                lectureHours: 3,
-                tutorialHours: 0,
-                practicalHours: 2,
-                semester: 3,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: ["CO321", "CO322", "CO323"],
-                category: "Program Core",
-                marks: 100,
-                status: "active",
-                description:
-                  "Introduces relational database concepts, SQL, normalization, and transaction management.",
-                syllabus: [
-                  "Module 1: Introduction to Databases",
-                  "Module 2: ER Modeling",
-                  "Module 3: SQL Queries",
-                  "Module 4: Normalization",
-                  "Module 5: Transactions & Security",
-                ],
-                textbooks: ["Database System Concepts - Silberschatz"],
-                references: ["ACM Transactions on Database Systems"],
-              },
-              {
-                id: "SUB303",
-                code: "1052233320",
-                name: "Digital Logic Design Lab",
-                type: "Practical",
-                credits: 2,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 4,
-                semester: 3,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: ["SUB301"],
-                courseOutcomes: ["CO331", "CO332"],
-                category: "Program Core",
-                marks: 100,
-                status: "active",
-                description:
-                  "Hands-on experiments with digital logic design, gates, flip-flops, and counters.",
-                syllabus: [
-                  "Module 1: Logic Gate Experiments",
-                  "Module 2: Adder/Subtractor",
-                  "Module 3: Multiplexers/Demultiplexers",
-                  "Module 4: Flip-Flops",
-                  "Module 5: Counters and Registers",
-                ],
-                textbooks: ["Digital Design - M. Morris Mano"],
-                references: [],
-              },
-              {
-                id: "SUB304",
-                code: "1052233440",
-                name: "C Programming",
-                type: "Practicum",
-                credits: 3,
-                lectureHours: 1,
-                tutorialHours: 0,
-                practicalHours: 4,
-                semester: 3,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: ["CO341", "CO342", "CO343"],
-                category: "Program Core",
-                marks: 100,
-                status: "active",
-                description:
-                  "Covers programming fundamentals including control structures, arrays, functions, and pointers.",
-                syllabus: [
-                  "Module 1: Basics of C",
-                  "Module 2: Control Structures",
-                  "Module 3: Functions",
-                  "Module 4: Arrays & Strings",
-                  "Module 5: Pointers",
-                ],
-                textbooks: ["Let Us C - Yashavant Kanetkar"],
-                references: [],
-              },
-              {
-                id: "SUB305",
-                code: "1052233540",
-                name: "Web Designing",
-                type: "Practicum",
-                credits: 3,
-                lectureHours: 1,
-                tutorialHours: 0,
-                practicalHours: 4,
-                semester: 3,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: ["CO351", "CO352"],
-                category: "Program Core",
-                marks: 100,
-                status: "active",
-                description:
-                  "Introduces HTML, CSS, JavaScript, and basics of responsive design.",
-                syllabus: [
-                  "Module 1: HTML Basics",
-                  "Module 2: CSS Styling",
-                  "Module 3: JavaScript Basics",
-                  "Module 4: Forms and Validation",
-                  "Module 5: Responsive Design",
-                ],
-                textbooks: ["HTML & CSS - Jon Duckett"],
-                references: [],
-              },
-              {
-                id: "SUB306",
-                code: "1052233640",
-                name: "Operating Systems",
-                type: "Practicum",
-                credits: 2,
-                lectureHours: 1,
-                tutorialHours: 0,
-                practicalHours: 2,
-                semester: 3,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: ["CO361", "CO362"],
-                category: "Program Core",
-                marks: 100,
-                status: "active",
-                description:
-                  "Covers process management, memory management, file systems, and OS design principles.",
-                syllabus: [
-                  "Module 1: Introduction to OS",
-                  "Module 2: Process Management",
-                  "Module 3: Memory Management",
-                  "Module 4: File Systems",
-                  "Module 5: OS Case Studies",
-                ],
-                textbooks: ["Operating System Concepts - Silberschatz"],
-                references: [],
-              },
-              {
-                id: "SUB307",
-                code: "1052233760",
-                name: "Advanced Skills Certification - 3",
-                type: "Advanced Skill Certification",
-                credits: 2,
-                lectureHours: 1,
-                tutorialHours: 0,
-                practicalHours: 3,
-                semester: 3,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: ["CO371"],
-                category: "Open Elective",
-                marks: 100,
-                status: "active",
-                description:
-                  "Skill-based elective focusing on practical applications.",
-                syllabus: [
-                  "Module 1: Certification Topic Overview",
-                  "Module 2: Practical Training",
-                  "Module 3: Case Studies",
-                ],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB308",
-                code: "1052233880",
-                name: "Growth Lab",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 2,
-                semester: 3,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: ["CO381"],
-                category: "Humanities & Social Science",
-                marks: 0,
-                status: "active",
-                description:
-                  "Growth-oriented interdisciplinary lab activities.",
-                syllabus: [
-                  "Module 1: Team Activities",
-                  "Module 2: Soft Skills",
-                  "Module 3: Innovation Practices",
-                ],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB309",
-                code: "1052233881",
-                name: "Induction Program II",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 3,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 0,
-                status: "active",
-                description: "Orientation and induction program for students.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB310",
-                code: "1052233882",
-                name: "I&E/ Club Activity / Community Initiatives",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 3,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 0,
-                status: "active",
-                description:
-                  "Participation in innovation, entrepreneurship, and community activities.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB311",
-                code: "1052233883",
-                name: "Shop Floor Immersion",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 3,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 0,
-                status: "active",
-                description:
-                  "Practical exposure to shop floor and industry practices.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB312",
-                code: "1052233884",
-                name: "Student-Led Initiative",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 3,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 0,
-                status: "active",
-                description: "Projects and initiatives led by students.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB313",
-                code: "1052233885",
-                name: "Emerging Technology Seminars",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 3,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 0,
-                status: "active",
-                description: "Seminars on latest technology trends.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB314",
-                code: "1052233886",
-                name: "Health & Wellness",
-                type: "Integrated Learning Experience",
-                credits: 1,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 2,
-                semester: 3,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 100,
-                status: "active",
-                description: "Health and wellness activities.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-            ];
-
-            // Semester 4 (CE) - Provided JSON courses
-            const ceSem4Subjects: Subject[] = [
-              {
-                id: "SUB401",
-                code: "1052234110",
-                name: "Computer Networks and Security",
-                type: "Theory",
-                credits: 3,
-                lectureHours: 3,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 4,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: ["CO411", "CO412", "CO413"],
-                category: "Program Core",
-                marks: 100,
-                status: "active",
-                description:
-                  "Covers fundamentals of computer networking and cybersecurity principles.",
-                syllabus: [
-                  "Module 1: Network Basics",
-                  "Module 2: Data Link and Network Layer",
-                  "Module 3: Transport and Application Layer",
-                  "Module 4: Network Security",
-                  "Module 5: Case Studies",
-                ],
-                textbooks: ["Computer Networks - Andrew Tanenbaum"],
-                references: ["IEEE Communications Magazine"],
-              },
-              {
-                id: "SUB402",
-                code: "1052234230",
-                name: "Data Structures Using Python",
-                type: "Practicum",
-                credits: 4,
-                lectureHours: 3,
-                tutorialHours: 0,
-                practicalHours: 2,
-                semester: 4,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: ["CO421", "CO422", "CO423"],
-                category: "Program Core",
-                marks: 100,
-                status: "active",
-                description:
-                  "Covers linear and non-linear data structures implementation using Python.",
-                syllabus: [
-                  "Module 1: Arrays and Strings",
-                  "Module 2: Stacks and Queues",
-                  "Module 3: Linked Lists",
-                  "Module 4: Trees",
-                  "Module 5: Graphs",
-                ],
-                textbooks: [
-                  "Data Structures and Algorithms in Python - Goodrich",
-                ],
-                references: [],
-              },
-              {
-                id: "SUB403",
-                code: "1052234340",
-                name: "Java Programming",
-                type: "Practicum",
-                credits: 4,
-                lectureHours: 2,
-                tutorialHours: 0,
-                practicalHours: 4,
-                semester: 4,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: ["CO431", "CO432", "CO433"],
-                category: "Program Core",
-                marks: 100,
-                status: "active",
-                description:
-                  "Object-oriented programming concepts and advanced features using Java.",
-                syllabus: [
-                  "Module 1: Basics of Java",
-                  "Module 2: OOP Concepts",
-                  "Module 3: Exception Handling",
-                  "Module 4: Multithreading",
-                  "Module 5: JavaFX / GUI Programming",
-                ],
-                textbooks: ["Core Java - Cay S. Horstmann"],
-                references: [],
-              },
-              {
-                id: "SUB404",
-                code: "1052234440",
-                name: "Python Programming",
-                type: "Practicum",
-                credits: 3,
-                lectureHours: 1,
-                tutorialHours: 0,
-                practicalHours: 4,
-                semester: 4,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: ["CO441", "CO442"],
-                category: "Program Core",
-                marks: 100,
-                status: "active",
-                description:
-                  "Practical introduction to Python programming with problem solving.",
-                syllabus: [
-                  "Module 1: Basics of Python",
-                  "Module 2: Control Structures",
-                  "Module 3: Functions and Modules",
-                  "Module 4: File Handling",
-                  "Module 5: Case Studies",
-                ],
-                textbooks: ["Learning Python - Mark Lutz"],
-                references: [],
-              },
-              {
-                id: "SUB405",
-                code: "1052234540",
-                name: "E-Publishing Tools",
-                type: "Practicum",
-                credits: 3,
-                lectureHours: 1,
-                tutorialHours: 0,
-                practicalHours: 4,
-                semester: 4,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: ["CO451", "CO452"],
-                category: "Program Core",
-                marks: 100,
-                status: "active",
-                description:
-                  "Hands-on training on digital publishing and content management tools.",
-                syllabus: [
-                  "Module 1: Introduction to E-Publishing",
-                  "Module 2: Tools for Publishing",
-                  "Module 3: Layout & Design",
-                  "Module 4: Multimedia Integration",
-                  "Module 5: Case Studies",
-                ],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB406",
-                code: "1052234640",
-                name: "Scripting Languages",
-                type: "Project",
-                credits: 3,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 6,
-                semester: 4,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: ["CO461", "CO462"],
-                category: "Program Core",
-                marks: 100,
-                status: "active",
-                description:
-                  "Covers scripting languages like JavaScript, PHP, and Python with mini projects.",
-                syllabus: [
-                  "Module 1: Introduction to Scripting",
-                  "Module 2: JavaScript Basics",
-                  "Module 3: Python Scripts",
-                  "Module 4: PHP Basics",
-                  "Module 5: Project Implementation",
-                ],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB407",
-                code: "1052234760",
-                name: "Advanced Skills Certification - 4",
-                type: "Advanced Skill Certification",
-                credits: 2,
-                lectureHours: 1,
-                tutorialHours: 0,
-                practicalHours: 3,
-                semester: 4,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: ["CO471"],
-                category: "Open Elective",
-                marks: 100,
-                status: "active",
-                description:
-                  "Skill-based elective with practical certification training.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB408",
-                code: "1052234882",
-                name: "I&E/ Club Activity / Community Initiatives",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 4,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 0,
-                status: "active",
-                description:
-                  "Participation in innovation, entrepreneurship, and community activities.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB409",
-                code: "1052234883",
-                name: "Shop Floor Immersion",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 4,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 0,
-                status: "active",
-                description:
-                  "Practical exposure to shop floor and industry practices.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB410",
-                code: "1052234884",
-                name: "Student-Led Initiative",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 4,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 0,
-                status: "active",
-                description: "Projects and initiatives led by students.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB411",
-                code: "1052234885",
-                name: "Emerging Technology Seminars",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 4,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 0,
-                status: "active",
-                description: "Seminars on latest technology trends.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB412",
-                code: "1052234886",
-                name: "Health & Wellness",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 4,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 0,
-                status: "active",
-                description: "Health and wellness activities.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB413",
-                code: "1052234887",
-                name: "Special Interest Groups (Placement Training)",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 4,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 0,
-                status: "active",
-                description: "Training activities for placements.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-            ];
-
-            ceSubjects.push(...ceSem4Subjects);
-
-            // Semester 5 (CE) - Provided JSON courses
-            const ceSem5Subjects: Subject[] = [
-              {
-                id: "SUB501",
-                code: "1052235130",
-                name: "Cloud Computing",
-                type: "Practicum",
-                credits: 3,
-                lectureHours: 2,
-                tutorialHours: 0,
-                practicalHours: 2,
-                semester: 5,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: ["CO511", "CO512"],
-                category: "Program Core",
-                marks: 100,
-                status: "active",
-                description:
-                  "Introduction to cloud computing concepts, services, and deployment models.",
-                syllabus: [
-                  "Module 1: Cloud Fundamentals",
-                  "Module 2: Virtualization",
-                  "Module 3: Cloud Services",
-                  "Module 4: Security in Cloud",
-                  "Module 5: Case Studies",
-                ],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB502",
-                code: "Elective-1",
-                name: "Elective-1",
-                type: "Theory",
-                credits: 3,
-                lectureHours: 3,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 5,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Program Elective",
-                marks: 100,
-                status: "active",
-                description:
-                  "Elective course selected by student from approved elective list.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB503",
-                code: "1052235320",
-                name: "Internet of Things & Digital Twins",
-                type: "Lab",
-                credits: 2,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 4,
-                semester: 5,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: ["CO531", "CO532"],
-                category: "Program Core",
-                marks: 100,
-                status: "active",
-                description:
-                  "Practical implementation of IoT concepts and digital twin technology.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB504",
-                code: "1052235440",
-                name: "Computer Hardware and Networking",
-                type: "Practicum",
-                credits: 3,
-                lectureHours: 1,
-                tutorialHours: 0,
-                practicalHours: 4,
-                semester: 5,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: ["CO541", "CO542"],
-                category: "Program Core",
-                marks: 100,
-                status: "active",
-                description:
-                  "Covers hardware architecture and networking concepts with practical exposure.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB505",
-                code: "Elective-2",
-                name: "Elective-2",
-                type: "Practicum",
-                credits: 3,
-                lectureHours: 1,
-                tutorialHours: 0,
-                practicalHours: 4,
-                semester: 5,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Program Elective",
-                marks: 100,
-                status: "active",
-                description:
-                  "Elective course selected by student from approved elective list.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB506",
-                code: "1052235654",
-                name: "Innovation and Startup",
-                type: "Practicum",
-                credits: 2,
-                lectureHours: 1,
-                tutorialHours: 0,
-                practicalHours: 2,
-                semester: 5,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Humanities & Social Science",
-                marks: 100,
-                status: "active",
-                description:
-                  "Encourages innovation, entrepreneurship, and startup culture.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB507",
-                code: "1052235773",
-                name: "Industrial Training (Summer Vacation - 90 Hours)",
-                type: "Internship",
-                credits: 2,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 5,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Project/Internship",
-                marks: 100,
-                status: "active",
-                description:
-                  "Industrial exposure and practical training during summer vacation.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB508",
-                code: "1052235860",
-                name: "Advanced Skills Certification - 5",
-                type: "Advanced Skill Certification",
-                credits: 2,
-                lectureHours: 1,
-                tutorialHours: 0,
-                practicalHours: 3,
-                semester: 5,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Open Elective",
-                marks: 100,
-                status: "active",
-                description: "Skill-based elective certification program.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB509",
-                code: "1052234882",
-                name: "I&E/ Club Activity / Community Initiatives",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 5,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 0,
-                status: "active",
-                description:
-                  "Participation in innovation, entrepreneurship and community initiatives.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB510",
-                code: "1052234883",
-                name: "Shop Floor Immersion",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 5,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 0,
-                status: "active",
-                description: "Industry-based shop floor learning immersion.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB511",
-                code: "1052234884",
-                name: "Student-Led Initiative",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 5,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 0,
-                status: "active",
-                description: "Projects and initiatives led by students.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB512",
-                code: "1052234885",
-                name: "Emerging Technology Seminars",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 5,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 0,
-                status: "active",
-                description: "Seminars on emerging technologies.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB513",
-                code: "1052234886",
-                name: "Health & Wellness",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 5,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 0,
-                status: "active",
-                description: "Activities for health and wellness.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-              {
-                id: "SUB514",
-                code: "1052234887",
-                name: "Special Interest Groups",
-                type: "Integrated Learning Experience",
-                credits: 0,
-                lectureHours: 0,
-                tutorialHours: 0,
-                practicalHours: 0,
-                semester: 5,
-                regulationYear: "R2024",
-                programId: foundProgram.id,
-                prerequisites: [],
-                courseOutcomes: [],
-                category: "Audit Course",
-                marks: 0,
-                status: "active",
-                description:
-                  "Special interest training or placement preparation activities.",
-                syllabus: [],
-                textbooks: [],
-                references: [],
-              },
-            ];
-
-            ceSubjects.push(...ceSem5Subjects);
-
-            setSubjects(ceSubjects);
-            setSelectedSemester(5); // default to Semester 5
           } else {
             // Generate sample subjects for other programs (existing logic)
             const sampleSubjects: Subject[] = [];
@@ -2541,15 +1393,8 @@ export default function ProgramSemesterPage() {
   const isECEProgram =
     program.name.toLowerCase().includes("electronics") &&
     program.name.toLowerCase().includes("communication");
-  const isCEFullTime =
-    (program.name || "").toLowerCase().includes("computer") &&
-    (program.name || "").toLowerCase().includes("engineering") &&
-    ((program.name || "").toLowerCase().includes("full time") ||
-      (program.type || "").toLowerCase().includes("full"));
   const totalSemesters = isECEProgram ? 3 : program.duration * 2;
   const semesterNumbers = isECEProgram
-    ? [3, 4, 5]
-    : isCEFullTime
     ? [3, 4, 5]
     : Array.from({ length: totalSemesters }, (_, i) => i + 1);
 
@@ -2668,10 +1513,7 @@ export default function ProgramSemesterPage() {
             );
             const totalHours = semesterSubjects.reduce(
               (acc, s) =>
-                acc +
-                (s.lectureHours || 0) +
-                (s.tutorialHours || 0) +
-                (s.practicalHours || 0),
+                acc + (s.lectureHours || 0) + (s.tutorialHours || 0) + (s.practicalHours || 0),
               0
             );
 
@@ -2747,8 +1589,7 @@ export default function ProgramSemesterPage() {
                             </Badge>
                           </TableCell>
                           <TableCell className="font-mono text-sm">
-                            {subject.lectureHours || 0}-
-                            {subject.tutorialHours || 0}-
+                            {subject.lectureHours || 0}-{subject.tutorialHours || 0}-
                             {subject.practicalHours || 0}
                           </TableCell>
                           <TableCell>
@@ -2841,10 +1682,7 @@ export default function ProgramSemesterPage() {
                 <p className="text-2xl font-bold">
                   {subjects.reduce(
                     (acc, s) =>
-                      acc +
-                      (s.lectureHours || 0) +
-                      (s.tutorialHours || 0) +
-                      (s.practicalHours || 0),
+                      acc + (s.lectureHours || 0) + (s.tutorialHours || 0) + (s.practicalHours || 0),
                     0
                   )}
                 </p>
